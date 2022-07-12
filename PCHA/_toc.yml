@@ -3,6 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+parts:
+    - chapters:
+      - file: doc/class_info
+      - file: doc/resources
+      - file: doc/topics
+      - file: doc/schedule
+      - file: doc/assignments
+    - caption: JupyterBook info
+      chapters:
+      - file: markdown
+      - file: notebooks
