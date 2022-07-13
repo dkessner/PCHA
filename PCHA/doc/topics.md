@@ -14,31 +14,50 @@ geometry: margin=1in
 * Exponential, Logarithm, and Logistic Functions
 * Introduction to Calculus: Derivatives and Applications
 
-## Semester 1 Topics
+|Unit|Topic                         |
+|----|------------------------------|
+| 1  |Trigonometry                  |
+| 2  |More Trigonometry             |
+| 3  |Trig Applications             |
+| 4  |Polynomials                   |
+| 5  |Conic Sections                |
+| 6  |Discrete Mathematics          |
+| 7  |Exponentials / Logarithms     |
+| 8  |Calculus: Derivatives         |
+| 9  |Calculus: More Derivatives    |
+| 10 |Calculus: Applications        |
 
-OSP: OpenStax Precalculus  
-OSC1: OpenStax Calculus Volume 1  
-SZ: Stitz Zeager Precalculus  
+
+## Chapter Cross-Reference
+
+### Precalculus topics
+
 DWFK: Precalculus by Demana, Waits, Foley, Kennedy, 8th ed  
+OSP: OpenStax Precalculus  
+SZ: Stitz Zeager Precalculus  
+
+|Unit|Topic                     |DWFK   |OSP       |SZ       |
+|----|--------------------------|-------|----------|---------|
+| 1  |Trigonometry              |Ch 4   |Ch 5-6    |Ch 10    |
+| 2  |More Trigonometry         |Ch 5   |Ch 7      |Ch 10-11 |
+| 3  |Trig Applications         |Ch 6-7 |Ch 8      |Ch 11, 8 |
+| 4  |Polynomials               |Ch 1-2 |Ch 3      |Ch 1-5   |
+| 5  |Conic Sections            |Ch 8   |Ch 10     |Ch 7     |
+| 6  |Discrete Mathematics      |Ch 9   |Ch 11     |Ch 9     |
+| 7  |Exponentials / Logarithms |Ch 5   |Ch 4      |Ch 6     |
+
+### Calculus topics
+
 FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition  
+OSC1: OpenStax Calculus Volume 1  
 
-|Unit|Topic              |Old Chapters|Open Chapters|
-|----|-------------------|------------|-------------|
-| 1  |Trigonometry       |DWFK Ch 4   |OSP Ch 5-6, SZ Ch 10 |
-| 2  |More Trigonometry  |DWFK Ch 5   |OSP Ch 7, SZ Ch 10-11 |
-| 3  |Trig Applications  |DWFK Ch 6-7 |OSP Ch 8, SZ Ch 11, 8 |
-| 4  |Polynomials        |DWFK Ch 1-2 |OSP Ch 3, SZ Ch 1-5 |
-| 5  |Conic Sections     |DWFK Ch 8   |OSP Ch 10, SZ Ch 7 |
+|Unit|Topic                          |FDWK     |OSC1    |
+|----|-------------------------------|---------|--------|
+| 8  |Calculus: Derivatives          |Ch 2-3   |Ch 2-3  | 
+| 9  |Calculus: More Derivatives     |Ch 4     |Ch 3    | 
+| 10 |Calculus: Applications         |Ch 5     |Ch 4    | 
 
-## Semester 2 Topics
 
-|Unit|Topic                          |Old Chapters|Open Chapters|
-|----|-------------------------------|------------|-------------|
-| 6  |Discrete Mathematics           | DWFK Ch 9  | OSP Ch 11, SZ Ch 9 |
-| 7  |Exponentials / Logarithms      | DWFK Ch 5  | OSP Ch 4, SZ Ch 6 |
-| 8  |Calculus: Derivatives          | FDWK Ch 2-3| OSC1 Ch 2-3 | 
-| 9  |Calculus: More Derivatives     | FDWK Ch 4  | OSC1 Ch 3 | 
-| 10 |Calculus: Applications         | FDWK Ch 5  | OSC1 Ch 4 | 
 
 ## Unit 1: Trigonometry
 
