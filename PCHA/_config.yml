@@ -8,7 +8,7 @@
 title                       : PCHA <br/> Pre-Calculus Honors Accelerated <br/> 2022-23 <br/> Dr. Kessner
 author                      : Dr. Kessner  # The author of the book
 copyright                   : "2022"  # Copyright year to be placed in the footer
-logo                        : allie.png  # A path to the book logo
+logo                        : assets/images/allie.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -35,3 +35,10 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+
+sphinx:
+  config:
+    html_extra_path: ['assets']
+
+
