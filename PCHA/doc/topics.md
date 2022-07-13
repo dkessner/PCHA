@@ -1,10 +1,4 @@
----
-title: Topics
-layout: info
-geometry: margin=1in
----
-
-## Topics
+# Topics
 
 * Trigonometry and Applications
 * Vectors and Matrices
