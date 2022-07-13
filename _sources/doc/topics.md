@@ -52,8 +52,9 @@ OSC1: OpenStax Calculus Volume 1
 | 10 |Calculus: Applications         |Ch 5     |Ch 4    | 
 
 
+## Details
 
-## Unit 1: Trigonometry
+### Unit 1: Trigonometry
 
 * 1.1 Unit Circle 
     - sin/cos from special triangles
@@ -77,7 +78,7 @@ OSC1: OpenStax Calculus Volume 1
     - modeling with a sinusoid
     - reference: OSP 5.4, 7.6, DWFK 4.8, SZ 11.1
 
-## Unit 2: More Trigonometry
+### Unit 2: More Trigonometry
 
 * 2.1 Trig identities 
     - basic, Pythagorean, cofunction, and odd/even identities
@@ -101,7 +102,7 @@ OSC1: OpenStax Calculus Volume 1
     - Laws of Sines/Cosines to solve triangles, including any ambiguous cases
     - reference: OSP 8.1-8.2, DWFK 5.5-5.6, SZ 11.2
 
-## Unit 3: Trig Applications
+### Unit 3: Trig Applications
 
 * 3.1 Vectors 
     - operations: addition and scalar multiplication
@@ -150,7 +151,7 @@ OSC1: OpenStax Calculus Volume 1
     - reference: OSP 9.7, 9.8, DWFK 7.2, SZ 8.5
 
         
-## Unit 4: Polynomials
+### Unit 4: Polynomials
 
 * 4.1 Function properties 
     - domain/range
@@ -190,7 +191,7 @@ OSC1: OpenStax Calculus Volume 1
     - (asymptotic) end behavior
     - reference: OSP 3.7, DWFK 2.6, SZ 4.2
 
-## Unit 5: Conic Sections
+### Unit 5: Conic Sections
 
 * 5.1 Parabolas 
     - geometric definition: focus, directrix
@@ -209,7 +210,7 @@ OSC1: OpenStax Calculus Volume 1
     - graphing
     - reference: OSP 10.3, DWFK 8.1, SZ 7.5
 
-## Unit 6: Discrete mathematics
+### Unit 6: Discrete mathematics
 
 * 6.1 Combinatorics 
     - multiplicative rule for counting / tree diagrams
@@ -249,7 +250,7 @@ OSC1: OpenStax Calculus Volume 1
     - infinite geometric series
     - reference: OSP 11.4, DWFK 9.5, SZ 9.2
 
-## Unit 7: Exponential and logarithm
+### Unit 7: Exponential and logarithm
 
 * 7.1 Exponential / logarithm 1 
     - graphs of $2^x$, $10^x$, $e^x$
@@ -261,7 +262,7 @@ OSC1: OpenStax Calculus Volume 1
     - base change formula
     - applications: population growth / radioactive decay
 
-## Unit 8: Derivatives
+### Unit 8: Derivatives
 
 * 8.1 Limits and End Behavior 
     - calculating limits
@@ -299,7 +300,7 @@ OSC1: OpenStax Calculus Volume 1
     - derive formulas for the other trig functions
     - reference: OSC1 3.5, FDWK 3.5
 
-## Unit 9: More Derivatives
+### Unit 9: More Derivatives
 
 * 9.1 Chain rule 
     - function composition and the chain rule
@@ -321,7 +322,7 @@ OSC1: OpenStax Calculus Volume 1
       triangle
     - reference: OSC1 3.7, FDWK 4.3
 
-## Unit 10: Applications
+### Unit 10: Applications
  
 * 10.1 Extreme values 
     - extreme value theorem
