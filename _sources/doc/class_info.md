@@ -1,17 +1,17 @@
-## Class information
+# Class information
 
 Pre-Calculus Honors Accelerated (PCHA)  
 2022-23  
 Dr. Kessner  
 
 
-### Grading
+## Grading
 
 - 50% group work
 - 50% individual assessments
 
 
-### Homework 
+## Homework 
 
 You are _not_ required to do every assigned homework problem.  However, you are
 responsible for knowing how to do every problem.  In other words, don't waste
@@ -22,7 +22,7 @@ encourage you to write notes to yourself on your homework to remind yourself
 what to look out for as you prepare for assessments.  
 
 
-### About the course
+## About the course
 
 This is a fast-paced course, with a lot of material to cover to prepare you for
 AP Calculus BC next year.  Because of the amount of material, we won't always

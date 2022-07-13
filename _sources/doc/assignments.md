@@ -1,4 +1,4 @@
-## Assignments 2021-22
+# Assignments 2021-22
 
 |Topic|Exercises|
 |-----|---------|

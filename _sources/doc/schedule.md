@@ -1,6 +1,6 @@
-## Schedule 2021-22
+# Schedule 2021-22
 
-### Semester 1 
+## Semester 1 
 
 15 weeks, 32 class meetings
 
@@ -23,7 +23,7 @@
 |14  |Dec 6 |2|5.1 Parabolas, 5.2 Ellipses; |
 |15  |Dec 13|2|5.3 Hyperbolas; Coding Day |
 
-### Semester 2
+## Semester 2
 
 18 weeks, 41 class meetings
 
