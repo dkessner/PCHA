@@ -1,9 +1,10 @@
 # PCHA
 
-Pre-Calculus Honors Accelerated 2022-23
+Pre-Calculus Honors Accelerated 2022-23  
+Dr. Kessner  
+Marlborough School, Los Angeles  
 
 [live site](https://dkessner.github.io/PCHA/)  
-
 
 ## Previous website
 
