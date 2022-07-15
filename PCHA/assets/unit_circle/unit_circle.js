@@ -108,6 +108,8 @@ function drawTheta()
 
 function draw() 
 {
+    theta = map(mouseX, 0, width, 0, 2*PI);
+
     background(0);
     drawAxes();
     drawUnitCircle();
@@ -115,10 +117,10 @@ function draw()
     drawSin();
     drawVerticalBar();
     drawTheta();
-    theta += dtheta;
+    //theta += dtheta;
 }
 
-
+/*
 function keyPressed() 
 {
     if (mouseX < 0 || mouseX>width || mouseY<0 || mouseY>height) return;
@@ -165,3 +167,4 @@ function mouseDragged()
     theta += d;
 }
 
+*/
