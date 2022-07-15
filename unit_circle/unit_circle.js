@@ -123,8 +123,10 @@ function keyPressed()
 {
     if (mouseX < 0 || mouseX>width || mouseY<0 || mouseY>height) return;
 
-    if (keyCode == UP_ARROW || keyCode == RIGHT_ARROW) dtheta = .04;
-    else if (keyCode == DOWN_ARROW || keyCode == LEFT_ARROW) dtheta = -.04;
+    const speed = .15;
+
+    if (keyCode == UP_ARROW || keyCode == RIGHT_ARROW) dtheta = speed;
+    else if (keyCode == DOWN_ARROW || keyCode == LEFT_ARROW) dtheta = -speed;
 }
 
 
