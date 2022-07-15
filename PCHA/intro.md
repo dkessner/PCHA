@@ -1,20 +1,11 @@
 # Welcome to PCHA 2022-23!
 
-Welcome fellow mathematics enthusiasts!  I'm very excited to be your teacher
-for PCHA this year!  This is a fast-moving course, and we will cover a wide
-variety of interesting topics on the way to calculus, the development of which
-was a major milestone in human understanding of the universe.
+Welcome fellow mathematics enthusiasts!  
 
-As we visit these topics, we will also do some coding to aid our understanding
-of these mathematical concepts, to see some of the relationships between
-mathematics and computer science, and to have fun and enjoy our mathematical
-skills.
+<div style="text-align:center;">
+<iframe src="unit_circle/index.html" width="420" height="220"></iframe>
+</div>
 
-<br/>
-
-Dr. Kessner
-
-<br/>
 
 Here's a fun quote from an article "Calculus Is Good for You"
 that appeared in _Scientific American_ in 1871 (150 years ago!).
