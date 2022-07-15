@@ -40,7 +40,7 @@ function drawAxes()
 
 function drawUnitCircle() 
 {
-    strokeWeight(1);
+    strokeWeight(2);
     stroke(128);
     noFill();
     ellipse(axes_center_1.x, axes_center_1.y, radius * 2, radius * 2);
@@ -64,8 +64,8 @@ function Y(angle)
 
 function drawSin() 
 {
-    strokeWeight(1);
-    stroke(200);
+    strokeWeight(2);
+    stroke(150);
     beginShape();
     for (let t = 0; t < 2 * PI; t += .01) {
         vertex(this.X(t), this.Y(t));
@@ -77,12 +77,12 @@ function drawSin()
 function drawClockHand() 
 {
     strokeWeight(5);
-    stroke(255, 0, 0);
+    stroke(200);
     let x = axes_center_1.x + radius * cos(theta);
     let y = axes_center_1.y - radius * sin(theta);
     line(axes_center_1.x, axes_center_1.y, x, y);
 
-    stroke(200);
+    stroke(0, 255, 0);
     line(axes_center_1.x, axes_center_1.y, axes_center_1.x, y);
 }
 
@@ -90,7 +90,7 @@ function drawClockHand()
 function drawVerticalBar() 
 {
     strokeWeight(5);
-    stroke(200);
+    stroke(0, 255, 0);
     let x = X(theta);
     let y = Y(theta);
     line(x, axes_center_2.y, x, y);
@@ -111,10 +111,10 @@ function draw()
     background(0);
     drawAxes();
     drawUnitCircle();
+    drawTheta();
     drawClockHand();
     drawSin();
     drawVerticalBar();
-    drawTheta();
     theta += dtheta;
 }
 
