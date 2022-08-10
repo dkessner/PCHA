@@ -1,29 +1,29 @@
-# Schedule 2021-22
+# Schedule 2022-23
 
-## Semester 1 
+## Semester 1 (tentative)
 
 15 weeks, 32 class meetings
 
 |Week|Date  |#|Topics|
 |----|------|-|------|
-|1   |Aug 30|2|1.1 Unit circle, 1.2 Trig graphs; __Group Work 1.1-1.2__|
-|2   |Sep 6 |1|1.3 Inverse trig, 1.4 word problems |
-|3   |Sep 13|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__ (Wed Sep 15); |
-|4   |Sep 20|3|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines; __Group Work Unit 2__ (Fri Sep 24); |
-|5   |Sep 27|2|Coding Day; PNOC Thurs Oct 1; __Test Unit 2__ (Fri Oct 1);|
-|6   |Oct 4 |2|3.1 Vectors; 3.2 Dot product; |
-|7   |Oct 11|2|3.3 Parametric equations and applications, 3.4 Polar coordinates; 3.5 Polar graphs; |
-|8   |Oct 18|3|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra; 3.8 Matrix inverses and determinants;|
-|9   |Oct 25|2|4.1 Function properties; __Group Work Unit 3__ (Pumpkin Day Oct 29);|
-|10  |Nov 1 |2|__Coding Project due__; 4.2 Function operations, transformations, composition, inverses; 4.3 Polynomials |
-|11  |Nov 8 |2|__Test Unit 3__ (Tue Nov 9); 4.4 More polynomials, complex numbers;|
-|12  |Nov 15|2|4.5 Complex numbers / Fundamental Theorem of Algebra; 4.6 Rational functions; __Group Work Unit 4a__ (Thu Nov 18); |
-|--  |Nov 22|-|_Thanksgiving Break_|
-|13  |Nov 29|3|__Group Work Unit 4b__ (Mon Nov 29); __Test Unit 4__ (Wed Dec 1); Coding Day? |
-|14  |Dec 6 |2|5.1 Parabolas, 5.2 Ellipses; |
-|15  |Dec 13|2|5.3 Hyperbolas; Coding Day |
+|1   |Aug 29|3/2|1.1 Unit circle, 1.2 Trig graphs; __Group Work 1.1-1.2__|
+|2   |Sep 5 |2|1.3 Inverse trig, 1.4 word problems |
+|3   |Sep 12|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__ (Wed/Thu Sep 14/15); |
+|4   |Sep 19|2|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines, __Group Work Unit 2__ (Wed/Thu Sep 21/22); |
+|5   |Sep 27|1/2|__Test Unit 2__ (Mon/Tue Sep 26/27);(PNOC Thurs Sep 29) Coding Day? |
+|6   |Oct 3 |2|3.1 Vectors; 3.2 Dot product; |
+|7   |Oct 10|2|3.3 Parametric equations and applications, 3.4 Polar coordinates; 3.5 Polar graphs; |
+|8   |Oct 17|3/2|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra; 3.8 Matrix inverses and determinants;|
+|9   |Oct 24|2/3|4.1 Function properties; __Group Work Unit 3__ ;|
+|10  |Oct 31|2|(Pumpkin Day Oct 31) __Coding Project due__; 4.2 Function operations, transformations, composition, inverses; __Test Unit 3__ (Tue/Wed Nov 1/2) |
+|11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, complex numbers;|
+|12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra; 4.6 Rational functions; __Group Work Unit 4a__ (Wed/Thu Nov 16/17); |
+|--  |Nov 21|-|_Thanksgiving Break_|
+|13  |Nov 28|3/2|__Group Work Unit 4b__ (Mon Nov 29); __Test Unit 4__ (Wed Dec 1); Coding Day? |
+|14  |Dec 5 |2|5.1 Parabolas, 5.2 Ellipses; |
+|15  |Dec 12|1/2|5.3 Hyperbolas; Coding Day? |
 
-## Semester 2
+## Semester 2 (not scheduled yet -- this is last year's schedule)
 
 18 weeks, 41 class meetings
 
