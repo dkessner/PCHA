@@ -37,8 +37,8 @@
 |6   |Feb 6 |3/2|7.1 Exponential / Logarithm; 7.2 Exponential / Logarithm; |
 |7   |Feb 13|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
 |8   |Feb 20|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
-|9   |Feb 27|2|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
-|10  |Mar 6 |2/3|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
+|9   |Feb 27|2/3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
+|10  |Mar 6 |2|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
 |11  |Mar 13|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
 |12  |Mar 20|2|9.4 Inverse Trig Derivatives; 9.5 Applications, __Group Work Unit 9a__ (Thu Mar 24);|
 |--  |Mar 27|-|_Spring Break_|
