@@ -29,25 +29,25 @@
 
 |Week|Date  |#|Topics|
 |----|------|-|----------------------------------------|
-|1   |Jan 3 |1|6.1 Combinatorics|
-|2   |Jan 10|3|6.2 Binomial theorem; 6.3 Probability;  __Group Work Unit 6a__ (Fri Jan 14);|
-|3   |Jan 17|2|6.4 More Probability; 6.5 Sequences;  |
-|4   |Jan 24|2|6.6 Series; __Group Work Unit 6b__ (Fri Jan 28);|
-|5   |Jan 31|2|6.x Bonus lesson, coding (sequences and series);  __Test Unit 6__ (Thu Feb 3); |
-|6   |Feb 7 |2|7.1 Exponential / Logarithm; 7.2 Exponential / Logarithm; |
-|7   |Feb 14|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
-|8   |Feb 21|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
-|9   |Feb 28|3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
-|10  |Mar 7 |2|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
-|11  |Mar 14|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
-|12  |Mar 21|2|9.4 Inverse Trig Derivatives; 9.5 Applications, __Group Work Unit 9a__ (Thu Mar 24);|
-|--  |Mar 28|-|_Spring Break_|
-|--  |Apr 4 |-|_Spring Break_|
-|13  |Apr 11|2| __Group Work Unit 9b__ (Mon Apr 11); 10.1 Extreme values;|
-|14  |Apr 18|3|10.2 Mean Value Theorem; __Test Unit 9__ (Wed Apr 20); 10.3 Extreme value tests; |
-|15  |Apr 25|2|10.4 Optimization; 10.5 Linearization / Newton's Method|
-|16  |May 2 |2|__Group Work Unit 10__ (Tues May 3); Bonus Lesson / Review / Practice;|
-|17  |May 9 |2|Bonus Lesson / Review / Practice; __Test Unit 10__ (Thurs May 12)|
-|18  |May 16|3|TBD|
-|19  |May 23|1|End of PCHA :( |
+|1   |Jan 2 |2|6.1 Combinatorics;6.2 Binomial theorem|
+|2   |Jan 9 |3/2| 6.3 Probability;  __Group Work Unit 6a__ (Fri Jan 14);|
+|3   |Jan 16|2|6.4 More Probability; 6.5 Sequences;  |
+|4   |Jan 23|2/3|6.6 Series; __Group Work Unit 6b__ (Fri Jan 28);|
+|5   |Jan 30|2|6.x Bonus lesson, coding (sequences and series);  __Test Unit 6__ (Thu Feb 3); |
+|6   |Feb 6 |3/2|7.1 Exponential / Logarithm; 7.2 Exponential / Logarithm; |
+|7   |Feb 13|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
+|8   |Feb 20|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
+|9   |Feb 27|2|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
+|10  |Mar 6 |2/3|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
+|11  |Mar 13|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
+|12  |Mar 20|2|9.4 Inverse Trig Derivatives; 9.5 Applications, __Group Work Unit 9a__ (Thu Mar 24);|
+|--  |Mar 27|-|_Spring Break_|
+|--  |Apr 3 |-|_Spring Break_|
+|13  |Apr 10|3/2| __Group Work Unit 9b__ (Mon Apr 11); 10.1 Extreme values;|
+|14  |Apr 17|2/3|10.2 Mean Value Theorem; __Test Unit 9__ (Wed Apr 20); 10.3 Extreme value tests; |
+|15  |Apr 24|2/1|10.4 Optimization; 10.5 Linearization / Newton's Method|
+|16  |May 1 |2/3|__Group Work Unit 10__ (Tues May 3); Bonus Lesson / Review / Practice;|
+|17  |May 8 |3/2|Bonus Lesson / Review / Practice; __Test Unit 10__ (Thurs May 12)|
+|18  |May 15|2/3|TBD|
+|19  |May 22|1|End of PCHA :( |
 
