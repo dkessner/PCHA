@@ -1,6 +1,6 @@
 # Schedule 2022-23
 
-## Semester 1 (tentative)
+## Semester 1
 
 15 weeks, 32 class meetings
 
@@ -21,9 +21,9 @@
 |--  |Nov 21|-|_Thanksgiving Break_|
 |13  |Nov 28|3/2|4.6 Rational functions; 5.1 Parabolas, 5.2 Ellipses; |
 |14  |Dec 5 |2|5.3 Hyperbolas; __Group Work Unit 5__ (Thu/Fri Dec 8/9)|
-|15  |Dec 12|1/2| __Test Unit 5 (Tue/Thu Dec 13/15)__ |
+|15  |Dec 12|1/2| __Test Unit 5__ (Tue/Thu Dec 13/15) |
 
-## Semester 2 (tentative)
+## Semester 2
 
 18 weeks, 41 class meetings
 
