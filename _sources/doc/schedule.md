@@ -14,14 +14,14 @@
 |6   |Oct 3 |2|3.1 Vectors; 3.2 Dot product; |
 |7   |Oct 10|2|3.3 Parametric equations and applications, 3.4 Polar coordinates; 3.5 Polar graphs; |
 |8   |Oct 17|3/2|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra; 3.8 Matrix inverses and determinants;|
-|9   |Oct 24|2/3|4.1 Function properties; __Group Work Unit 3__ (Thu/Fri Oct 27/28) ;|
-|10  |Oct 31|2|(Pumpkin Day Oct 31) __Coding Project due__; 4.2 Function operations, transformations, composition, inverses; __Test Unit 3__ (Thu/Fri Nov 3/4) |
-|11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, complex numbers;|
-|12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra; 4.6 Rational functions; __Group Work Unit 4a__ (Wed/Thu Nov 16/17); |
+|9   |Oct 24|2/3|__Group Work Unit 3__ (Tue/Wed Oct 25/26); 4.1 Function properties; |
+|10  |Oct 31|2|(Pumpkin Day Oct 31) __Coding Project due__, __Test Unit 3__ (Tue/Wed Nov 1/2); 4.2 Function operations, transformations, composition, inverses; |
+|11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, __Group Work Unit 4__ |
+|12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra; __Test Unit 4__ |
 |--  |Nov 21|-|_Thanksgiving Break_|
-|13  |Nov 28|3/2|__Group Work Unit 4b__ (Mon/Tue Nov 29/30); __Test Unit 4__ (Wed/Thu Dec 1/2); Coding Day? |
-|14  |Dec 5 |2|5.1 Parabolas, 5.2 Ellipses; |
-|15  |Dec 12|1/2|5.3 Hyperbolas; Coding Day? |
+|13  |Nov 28|3/2|4.6 Rational functions; 5.1 Parabolas, 5.2 Ellipses; |
+|14  |Dec 5 |2|5.3 Hyperbolas; __Group Work Unit 5__ |
+|15  |Dec 12|1/2| __Test Unit 5 (Tue/Thu Dec 13/15)__ |
 
 ## Semester 2 (tentative)
 
