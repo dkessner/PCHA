@@ -32,13 +32,13 @@
 |1   |Jan 2 |2|6.1 Combinatorics;6.2 Binomial theorem|
 |2   |Jan 9 |3/2| 6.3 Probability; 6.4 More Probability; __Group Work Unit 6a__ (Thu/Fri Jan 12/13);|
 |3   |Jan 16|2|6.5 Sequences; 6.6 Series; |
-|4   |Jan 23|2/3| __Group Work Unit 6b__ (Mon/Tue Jan 23/24); 6.x Bonus lesson, coding (sequences and series);|
+|4   |Jan 23|2/3| __Group Work Unit 6b__ (Tue/Wed Jan 24/25); 6.x Bonus lesson, coding (sequences and series);|
 |5   |Jan 30|2| __Test Unit 6__ (Mon/Tue Jan 30/31); 7.1 Exponential / Logarithm;|
 |6   |Feb 6 |3/2| 7.2 Exponential / Logarithm; __Group Work Unit 7__ (Mon/Tue Feb 6/7) |
 |7   |Feb 13|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
 |8   |Feb 20|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
-|9   |Feb 27|2/3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
-|10  |Mar 6 |2|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
+|9   |Feb 27|2/3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Thu/Fri Mar 2/3) |
+|10  |Mar 6 |2|9.1 Chain rule; __Test Unit 8__ (Thu/Fri Mar 9/10); |
 |11  |Mar 13|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
 |12  |Mar 20|2|9.4 Inverse Trig Derivatives; 9.5 Applications, __Group Work Unit 9a__ (Wed/Fri Mar 22/24);|
 |--  |Mar 27|-|_Spring Break_|
