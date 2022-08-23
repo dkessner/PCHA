@@ -13,6 +13,15 @@ pdf:
 viewpdf:
 	open _build/latex/book.pdf
 
+learning_targets.odt: doc/topics.md
+	pandoc $< -o $@
+
 clean:
 	jb clean .
+	rm -f learning_targets.odt
+
+
+# $* stem of implicit rule match 
+# $@ target 
+# $< first prerequisite
 
