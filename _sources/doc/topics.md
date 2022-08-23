@@ -461,32 +461,33 @@ OSC1: [OpenStax Calculus Volume 1](https://openstax.org/details/books/calculus-v
 
 * 9.1 Chain rule 
     - learning targets:
-        - function composition and the chain rule
+        - apply the chain rule to find the derivative of a composition of functions
     - reference: 
         - OSC1 3.6
         - FDWK 4.1
 
 * 9.2 Implicit differentiation 
     - learning targets:
-        - chain rule -> implicit differentiation
-        - general power rule
+        - use implicit differentiation to find the derivative of an implicitly
+          defined function
+        - apply the general power rule
     - reference: 
         - OSC1 3.8
         - FDWK 4.2
 
 * 9.3 Derivatives of exponential / logarithm 
     - learning targets:
-        - special limit: $\lim_{h \to 0} \frac{a^h-1}{h} = \ln a$
-        - derivative of $e^x$, $a^x$
-        - derivative of $\ln$, $\log_a$
+        - apply the special limit: $\lim_{h \to 0} \frac{a^h-1}{h} = \ln a$
+        - find the derivative of functions involving $e^x$, $a^x$
+        - find the derivative of functions involving $\ln x$, $\log_a x$
     - reference: 
         - OSC1 3.9
         - FDWK 4.4
 
 * 9.4 Derivatives of inverse trig functions 
     - learning targets:
-        - derivation of formulas using implicit differentiation + reference
-          triangle
+        - derive formulas for inverse trig functions using implicit
+          differentiation (plus a reference triangle)
     - reference:
         - OSC1 3.7 
         - FDWK 4.3
@@ -495,43 +496,46 @@ OSC1: [OpenStax Calculus Volume 1](https://openstax.org/details/books/calculus-v
  
 * 10.1 Extreme values 
     - learning targets:
-        - extreme value theorem
+        - identify whether the Extreme Value Theorem applies to a given
+          function on a given interval
+        - identify the extreme values of a function
     - reference: 
         - OSC1 4.3 
         - FDWK 5.1
 
 * 10.2 Mean Value Theorem 
     - learning targets:
-        - Rolle's Theorem
-        - Mean Value Theorem
-        - Cor 1: f' = 0 -> const
-        - Cor 2: f' = g' -> f = g + const (-> antiderivatives)
-        - Cor 3: f'>0 -> f increasing
+        - apply Rolle's Theorem
+        - state the Mean Value Theorem
+        - state Corollary 1 (if $f' = 0$ then $f$ is constant)
+        - state Corollary 2 (if $f' = g'$ then $f = g + \text{constant}$
+        - state Corollary 3: (if $f'>0$ then $f$ is increasing)
+        - find all antiderivatives of a function
     - reference: 
         - OSC1 4.4
         - FDWK 5.2
 
 * 10.3 Extreme value tests 
     - learning targets:
-        - 1st derivative test (including one-sided)
-        - concavity / inflection points
-        - 2nd derivative test
+        - apply the 1st derivative test (including one-sided) to verify a max/min
+        - determine intervals of concavity and inflection points
+        - apply the 2nd derivative test to verify a max/min
     - reference: 
         - OSC1 4.5
         - FDWK 5.3
 
 * 10.4 Optimization 
     - learning targets:
-        - applications: optimizing functions, with constraints
+        - apply calculus to find the max/min of a function
+        - find the max/min of constrained functions
     - reference: 
         - OSC1 4.7
         - FDWK 5.4
 
 * 10.5 Linearization / Newton's Method 
     - learning targets:
-        - linear approximation of functions
-        - 2nd order approximation -> 2nd derivative test
-        - Newton's Method for finding roots
+        - find the linear approximation of functions
+        - apply Newton's Method for finding roots
     - reference: 
         - OSC1 4.2, 4.9
         - FDWK 5.5
