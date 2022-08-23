@@ -27,8 +27,8 @@
 ### Precalculus topics
 
 DWFK: Precalculus by Demana, Waits, Foley, Kennedy, 8th ed  
-OSP: OpenStax Precalculus  
-SZ: Stitz Zeager Precalculus  
+OSP: [OpenStax Precalculus](https://openstax.org/details/books/precalculus)  
+SZ: [Stitz Zeager Precalculus](https://www.stitz-zeager.com/)  
 
 |Unit|Topic                     |DWFK   |OSP       |SZ       |
 |----|--------------------------|-------|----------|---------|
@@ -43,7 +43,7 @@ SZ: Stitz Zeager Precalculus
 ### Calculus topics
 
 FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition  
-OSC1: OpenStax Calculus Volume 1  
+OSC1: [OpenStax Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1)  
 
 |Unit|Topic                          |FDWK     |OSC1    |
 |----|-------------------------------|---------|--------|
@@ -58,8 +58,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 1.1 Unit Circle 
     - learning targets:
-        - sin/cos from special triangles
-        - unit circle with sin/cos values at special angles
+        - find sin/cos values from special triangles
+        - use the unit circle to find sin/cos values at special angles:
+          $\{0,\frac{\pi}{6},\frac{\pi}{4},\frac{\pi}{3}\} + \frac{k\pi}{2}$
     - reference: 
         - OSP 5.2-5.3
         - DWFK 4.2-4.3
@@ -77,7 +78,7 @@ OSC1: OpenStax Calculus Volume 1
 
 * 1.3 Inverse trig functions 
     - learning targets:
-        - calculating inverse trig functions for values corresponding to special
+        - calculate inverse trig functions for values corresponding to special
           angles
     - reference: 
         - OSP 6.3
@@ -86,9 +87,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 1.4 Trig word problems 
     - learning targets:
-        - calculating distances with trigonometry 
-        - angle of elevation / depression
-        - modeling with a sinusoid
+        - calculate distances with trigonometry 
+        - calculate speeds in the x/y direction using the angle of elevation / depression
+        - model physical situations with a sinusoid
     - reference: 
         - OSP 5.4, 7.6 
         - DWFK 4.8
@@ -98,7 +99,7 @@ OSC1: OpenStax Calculus Volume 1
 
 * 2.1 Trig identities 
     - learning targets:
-        - basic, Pythagorean, cofunction, and odd/even identities
+        - use the basic, Pythagorean, cofunction, and odd/even identities
         - prove trigonometric identities from left to right
     - reference: 
         - OSP 7.1
@@ -107,8 +108,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 2.2 Sum/Difference formulas 
     - learning targets:
-        - sum/difference formulas 
-        - derivation of sum/difference formula for tan from the formulas for
+        - use the sum/difference formulas 
+        - derive the sum/difference formula for tan from the formulas for
           sin/cos
     - reference: 
         - OSP 7.2
@@ -117,10 +118,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 2.3 Multiple angle formulas 
     - learning targets:
-        - multiple angle formulas (derivation from the sum/difference formulas)
-        - derive the power-reducing and half-angle formulas from the multiple angle
-          formulas
-        - use any of the formulas to calculate trig function values
+        - derive the double angle formulas from the sum formulas
+        - derive the power-reducing and half-angle formulas from the double
+          angle formulas
+        - use the double angle, power reducing, and half-angle formulas
     - reference: 
         - OSP 7.3
         - DWFK 5.4
@@ -128,7 +129,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 2.4 Law of Sines/Cosines 
     - learning targets:
-        - Laws of Sines/Cosines to solve triangles, including any ambiguous cases
+        - use the Laws of Sines/Cosines to solve triangles, including any
+          ambiguous cases
     - reference: 
         - OSP 8.1-8.2
         - DWFK 5.5-5.6
@@ -138,8 +140,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.1 Vectors 
     - learning targets:
-        - operations: addition and scalar multiplication
-        - component form vs. magnitude and direction
+        - perform vector operations: addition and scalar multiplication
+        - convert between component form and magnitude/direction
     - reference: 
         - OSP 8.8
         - DWFK 6.1
@@ -147,12 +149,11 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.2 Dot Product 
     - learning targets:
-        - component definition
-        - dot product and magnitude
-        - dot product with unit vectors / projection on axes
-        - law of cosines => angle definition
-        - orthogonality
-        - finding the angle between two vectors
+        - compute dot product of two vectors
+        - compute the dot product with unit vectors to find the projection of a
+          vector on axes 
+        - determine whether two vectors are orthogonal, parallel, or neither
+        - find the angle between two vectors
     - reference: 
         - OSP 8.8
         - DWFK 6.2
@@ -160,9 +161,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.3 Parametric Equations 
     - learning targets:
-        - parametrizing a line (segment)
-        - parametrizing a circle / circular motion 
-        - projectile motion 
+        - parametrize a line (segment)
+        - parametrize a circle / circular motion 
+        - solve projectile motion problems
     - reference: 
         - OSP 8.6-8.7
         - DWFK 6.3
@@ -170,8 +171,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.4 Polar Coordinates 
     - learning targets:
-        - rectangular/polar conversion
-        - rectangular/polar equations
+        - convert expressions between rectangular and polar coordinates
+        - convert equations between rectangular and polar coordinates
     - reference: 
         - OSP 8.3
         - DWFK 6.4
@@ -179,7 +180,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.5 Polar Graphs 
     - learning targets:
-        - analysis of graphs: max r value, symmetry
+        - analyze graphs:
+            - max r value (and corresponding $\theta$)
+            - symmetry
     - reference: 
         - OSP 8.4
         - DWFK 6.5
@@ -187,8 +190,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.6 Linear systems, matrices
     - learning targets:
-        - solving by substitution, elimination
-        - solving by diagonalization of matrices
+        - solve linear systems of equations by substitution, elimination
+        - solve linear systems of equations by diagonalization of matrices
     - reference: 
         - OSP 9.1-9.2, 9.6
         - DWFK 7.1, 7.3
@@ -196,8 +199,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.7 Matrix algebra
     - learning targets:
-        - matrix operations: addition, scalar multiplication
-        - matrix multiplication and composition
+        - perform matrix operations: addition, scalar multiplication
+        - perform matrix multiplication (composition)
     - reference: 
         - OSP 9.5
         - DWFK 7.2
@@ -205,10 +208,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 3.8 Matrix inverses and determinants
     - learning targets:
-        - matrix inverses
-        - solving linear systems with matrix inverses
-        - matrix inverse <-> nonzero determinant
-        - linear transformations and the determinant
+        - use the determinant of a matrix to determine whether the matrix is invertible
+        - compute matrix inverses
+        - solve linear systems with matrix inverses
     - reference: 
         - OSP 9.7, 9.8
         - DWFK 7.2
@@ -219,11 +221,11 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.1 Function properties 
     - learning targets:
-        - domain/range
-        - increasing/decreasing
-        - continuity
-        - boundedness (above/below)
-        - local/global min/max
+        - find the domain and range of a function
+        - find intervals where a function is increasing/decreasing
+        - identify discontinuities (types and locations) of a function
+        - determine whether a function is bounded (above/below)
+        - determine the local/global (relative/absolute) min/max of a function
     - reference: 
         - OSP 1.1-1.3
         - DWFK 1.2-1.3
@@ -231,8 +233,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.2 Operations, transformations, composition, inverses 
     - learning targets:
-        - function operations
-        - function composition and inverses
+        - perform operations on functions
+        - determine the composition of two functions
+        - determine the inverse of a function
     - reference: 
         - OSP 1.4-1.5
         - DWFK 1.4-1.6
@@ -240,11 +243,11 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.3 Polynomials 1 
     - learning targets:
-        - end behavior
-        - factoring and zeros
-        - graphing
-        - Remainder theorem
-        - Factor theorem
+        - describe the end behavior of a polynomial using limit notation
+        - determine the zeros (roots) of a polynomial from its factors
+        - graph a polynomial (factored)
+        - apply the Remainder theorem
+        - apply the Factor theorem
     - reference: 
         - OSP 3.2-3.6
         - DWFK 2.1-2.2
@@ -252,8 +255,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.4 Polynomials 2, Complex numbers 
     - learning targets:
-        - synthetic division
-        - potential rational zeros
+        - perform synthetic division
+        - determine and verify potential rational zeros
     - reference: 
         - OSP 3.5-3.6, 3.1
         - DWFK 2.3-2.4, P.6
@@ -261,9 +264,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.5 Complex numbers, Fundamental theorem of Algebra 
     - learning targets:
-        - complex numbers: operations, conjugation, magnitude
-        - factoring over the real numbers
-        - factoring over the complex numbers
+        - perform operations on complex numbers:  
+          $+, \cdot, \overline{z}, |z|$
+        - find complete factorization of a polynomial over the real numbers
+        - find complete factorization of a polynomial over the complex numbers
     - reference: 
         - OSP 3.6
         - DWFK P.6, 2.5
@@ -271,9 +275,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 4.6 Rational functions 
     - learning targets:
-        - graphing rational functions by hand
-        - behavior near asymptotes
-        - (asymptotic) end behavior
+        - graph rational functions by hand
+        - describe behavior near asymptotes using limit notation
+        - describe end behavior using limit notation
+        - describe asymptotic end behavior
     - reference: 
         - OSP 3.7
         - DWFK 2.6
@@ -283,8 +288,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 5.1 Parabolas 
     - learning targets:
-        - geometric definition: focus, directrix
-        - standard form <-> focus/directrix
+        - find the focus and directrix of a parabola from its standard form equation
+        - find the equation of a parabola from its focus and directrix
+        - graph any parabola
     - reference: 
         - OSP 10.1
         - DWFK 8.1
@@ -292,9 +298,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 5.2 Ellipses 
     - learning targets:
-        - geometric definition
-        - algebraic definition
-        - graphing
+        - graph any ellipse
+        - find the center, foci, major/minor axes, and eccentricity of an
+          ellipse from its standard form equation
+        - find the standard form equation of an ellipse given some of its properties
     - reference: 
         - OSP 10.2
         - DWFK 8.1
@@ -302,9 +309,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 5.3 Hyperbolas 
     - learning targets:
-        - geometric definition
-        - algebraic definition
-        - graphing
+        - graph any hyperbola
+        - find the center, foci, major/minor axes, eccentricity, and asymptotes
+          of a hyperbola from its standard form equation
+        - find the standard form equation of a hyperbola given some of its properties
     - reference: 
         - OSP 10.3
         - DWFK 8.1
@@ -314,10 +322,10 @@ OSC1: OpenStax Calculus Volume 1
 
 * 6.1 Combinatorics 
     - learning targets:
-        - multiplicative rule for counting / tree diagrams
-        - permutations
-        - combinations
-        - distinguishible permutations
+        - count events with independent choices using the multiplicative rule 
+        - compute permutations $_n P_r$
+        - compute combinations $_n C_r = \begin{pmatrix} n \\ r \end{pmatrix} $
+        - compute distinguishible permutations
     - reference: 
         - OSP 11.5
         - LDM 1.1, 1.3
@@ -325,9 +333,9 @@ OSC1: OpenStax Calculus Volume 1
 
 * 6.2 Binomial Theorem 
     - learning targets:
-        - Pascal's triangle / Binomial Theorem
-        - full binomial expansion 
-        - formula for single term
+        - use Pascal's triangle and the Binomial Theorem to find the standard
+          form of a power of a binomial
+        - find a single term of the expanded polynomial
     - reference: 
         - OSP 11.6
         - DWFK 9.2
@@ -335,27 +343,28 @@ OSC1: OpenStax Calculus Volume 1
 
 * 6.3 Probability 
     - learning targets:
-        - basic definition (discrete)
-        - "independent" events -> multiplication
-        - conditional probability, independence
+        - compute probabilities using the basic definition
+        - calculate the probability of independent events using multiplication 
+        - calculate conditional probability $P(A|B)$
+        - determine whether two events are independent
     - reference: 
         - OSP 11.7
         - DWFK 9.3
 
 * 6.4 More Probability 
     - learning targets:
-        - binomial distribution
-        - hypergeometric distribution
+        - calculate probabilities using the binomial distribution 
+        - calculate probabilities using the hypergeometric distribution
     - reference: 
         - OSP 11.7
         - DWFK 9.3
 
 * 6.5 Sequences 
     - learning targets:
-        - sequence notation
-        - recursive definition
-        - explicit definition
-        - limits
+        - determine the term of a sequence from an explicit formula
+        - find a recursive definition for an arithmentic or geometric sequence
+        - find an explicit definition for an arithmentic or geometric sequence
+        - determine the limit of a sequence
     - reference: 
         - OSP 11.1-11.3
         - DWFK 9.4
@@ -363,10 +372,11 @@ OSC1: OpenStax Calculus Volume 1
 
 * 6.6 Series 
     - learning targets:
-        - summation notation
-        - finite sums arithmetic sequences
-        - finite sums geometric sequences
-        - infinite geometric series
+        - use summation notation to describe a sum
+        - calculate finite sums from summation notation
+        - calculate finite sums of arithmetic sequences
+        - calculate finite sums of geometric sequences
+        - calculate sum of an infinite geometric series
     - reference: 
         - OSP 11.4
         - DWFK 9.5
@@ -376,8 +386,8 @@ OSC1: OpenStax Calculus Volume 1
 
 * 7.1 Exponential / logarithm 1 
     - learning targets:
-        - graphs of $2^x$, $10^x$, $e^x$
-        - graphs of $\log_2$, $\log_{10}$, and $\log_e = \ln$
+        - graph $2^x$, $10^x$, $e^x$
+        - graph $\log_2 x$, $\log_{10} x$, and $\log_e x = \ln x$
     - reference: 
         - OSP 4.1-4.7
         - DWFK 3.1-3.4
@@ -385,61 +395,64 @@ OSC1: OpenStax Calculus Volume 1
 
 * 7.2 Exponential / logarithm 2 
     - learning targets:
-        - solving equations
-        - base change formula
-        - applications: population growth / radioactive decay
+        - solve equations involving exponentials or logarithms
+        - apply the base change formula
+        - apply exponential/logarithmic models to problems involving population
+          growth or radioactive decay
 
 ### Unit 8: Derivatives
 
 * 8.1 Limits and End Behavior 
     - learning targets:
-        - calculating limits
-        - infinite limits at asymptotes
-        - end behavior
-        - special limit: $\lim_{x \to 0}\frac{\sin x}{x} = 1$
+        - calculate limits of functions, and describe using limit notation
+        - describe function behavior at asymptotes using limit notation
+        - describe end behavior of functions using limit notation
+        - apply the special limit: $\lim_{x \to 0}\frac{\sin x}{x} = 1$
     - reference: 
         - OSC1 2.2-2.3
         - FDWK 2.1-2.2
 
 * 8.2 Continuity 
     - learning targets:
-        - types of discontinuities (removable, jump, infinite)
-        - definition of continuity
+        - determine locations and types of discontinuities (removable, jump,
+          infinite) 
+        - describe the behavior of a function near discontinuities
+          using limit notation
     - reference: 
         - OSC1 2.4
         - FDWK 2.3
 
 * 8.3 Derivative Limit Definition 
     - learning targets:
-        - standard definition (h->0)
-        - alternate definition (x->a)
+        - find the derivative of a function using the standard definition ($h\to 0$)
+        - find the derivative of a function using the alternate definition $(x \to a)$
     - reference: 
         - OSC1 3.1 
         - FDWK 3.1-3.2
 
 * 8.4 Differentiation Rules 
     - learning targets:
-        - $\frac{d}{dx}(const) = 0$
-        - power rule
-        - sum rule
-        - product rule / quotient rule
+        - apply the power rule
+        - apply the sum rule
+        - apply the product rule / quotient rule
+        - find the derivative of any polynomial or rational function
     - reference: 
         - OSC1 3.2-3.3
         - FDWK 3.3
 
 * 8.5 Rates of change 
     - learning targets:
-        - application: projectiles 
-        - application: circular motion
-        - application: population growth
+        - use calculus to solve projectile motion problems
+        - use calculus to solve circular motion problems
+        - use calculus to solve population growth problems
     - reference: 
         - OSC1 3.4
         - FDWK 2.4
 
 * 8.6 Derivatives of Trig Functions 
     - learning targets:
-        - derivatives of sin/cos from special limits
-        - derive formulas for the other trig functions
+        - find the derivatives of sin/cos using the limit definition, plus special limits
+        - derive formulas for derivatives of the other trig functions
     - reference: 
         - OSC1 3.5
         - FDWK 3.5
