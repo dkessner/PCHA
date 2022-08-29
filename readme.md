@@ -13,6 +13,17 @@ Marlborough School, Los Angeles
 
 ## Usage
 
+### Set up virtual environment and build
+
+```console
+python3 -m venv $venvname
+source $venvname/bin/activate
+pip install -r requirements.txt
+make
+make view
+```
+
+
 ### Building the book
 
 If you'd like to develop and/or build the PCHA book, you should:
