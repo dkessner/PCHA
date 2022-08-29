@@ -6,11 +6,6 @@ Marlborough School, Los Angeles
 
 [live site](https://dkessner.github.io/PCHA/)  
 
-## Previous website
-
-[PCHA 2021-22 website](https://dkessner.github.io/PCHA_2021-22/)  
-[PCHA 2021-22 repo](https://github.com/dkessner/PCHA_2021-22)
-
 ## Usage
 
 ### Set up virtual environment 
@@ -34,4 +29,10 @@ This project is created using the excellent open source [Jupyter Book
 project](https://jupyterbook.org/) and the
 [executablebooks/cookiecutter-jupyter-book
 template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+
+## Previous website
+
+[PCHA 2021-22 website](https://dkessner.github.io/PCHA_2021-22/)  
+[PCHA 2021-22 repo](https://github.com/dkessner/PCHA_2021-22)
+
 
