@@ -13,28 +13,20 @@ Marlborough School, Los Angeles
 
 ## Usage
 
-### Set up virtual environment and build
+### Set up virtual environment 
 
 ```console
 python3 -m venv $venvname
 source $venvname/bin/activate
 pip install -r requirements.txt
+```
+
+### Build and preview
+
+```console
 make
 make view
 ```
-
-
-### Building the book
-
-If you'd like to develop and/or build the PCHA book, you should:
-
-1. Clone this repository
-2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `PCHA/` directory
-4. Run `jupyter-book clean PCHA/` to remove any existing builds
-5. Run `jupyter-book build PCHA/`
-
-A fully-rendered HTML version of the book will be built in `PCHA/_build/html/`.
 
 ## Credits
 
