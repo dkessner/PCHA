@@ -11,5 +11,3 @@
 ![](4.jpg)
 ![](5.jpg)
 
-[notes (pdf)](notes.pdf)
-
