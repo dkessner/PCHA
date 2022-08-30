@@ -1,7 +1,3 @@
-# Unit 1 - testing
+# Unit 1 
 
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
 
