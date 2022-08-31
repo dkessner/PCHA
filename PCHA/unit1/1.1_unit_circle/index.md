@@ -1,4 +1,4 @@
-# 1.1-1.2 Unit Circle, Trig Graphs
+# 1.1 Unit Circle
 
 <script src="unit_circle.js"></script>
 
