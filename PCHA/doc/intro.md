@@ -1,4 +1,4 @@
-# Introduction
+# Course Information
 
 Pre-Calculus Honors Accelerated (PCHA) is a fast-moving course, and we will
 cover a wide variety of interesting topics on the way to calculus, the

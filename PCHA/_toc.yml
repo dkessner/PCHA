@@ -5,13 +5,12 @@ format: jb-book
 root: welcome
 parts:
     - chapters:
-      - file: doc/intro
+      - file: doc/schedule
+      - file: doc/assignments
+      - file: doc/course_info
         sections:
-        - file: doc/class_info
         - file: doc/resources
         - file: doc/topics
-        - file: doc/schedule
-        - file: doc/assignments
       - file: unit1/index
         sections:
         - file: unit1/1.1_unit_circle/index
