@@ -7,7 +7,7 @@
 |Week|Date  |#|Topics|
 |----|------|-|------|
 |1   |Aug 29|3/2|1.1 Unit circle, 1.2 Trig graphs; __Group Work 1.1-1.2__|
-|2   |Sep 5 |2|1.3 Inverse trig, 1.4 word problems |
+|2   |Sep 5 |2|1.3 Inverse trig, 1.4 word problems; __Group Work Unit 1 (Thu/Fri Sep 8/9)__ |
 |3   |Sep 12|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__ (Wed/Thu Sep 14/15); |
 |4   |Sep 19|2|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines, __Group Work Unit 2__ (Wed/Thu Sep 21/22); |
 |5   |Sep 26|1/2|__Test Unit 2__ (Wed/Fri Sep 28/30);(PNOC Thurs Sep 29) |
