@@ -62,7 +62,7 @@ __a.__ $f(x) = 2\sec(x-\frac{\pi}{2}) - 1$
 
 \vspace{3.5in}
 
-__b.__ $g(x) = \frac{1}{2}\cot(\frac{x}{3}) + 1$
+__b.__ $g(x) = \frac{1}{2}\tan(\frac{x}{3}) + 1$
 
 ---
 geometry: margin=1in
