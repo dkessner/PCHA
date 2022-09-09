@@ -21,6 +21,11 @@ skills.
 - 50% group work
 - 50% individual assessments
 
+## Reassessment Policy
+
+Reassessments will be available on a case-by-case basis.  You will need to
+submit test corrections for the original test, and the recorded score will
+be a 70/30% weighted average of your new/old scores.
 
 ## Homework 
 
