@@ -6,4 +6,6 @@
 | 1.2 Graphs of Trig Functions | [OSP 6.1](https://openstax.org/books/precalculus/pages/6-1-graphs-of-the-sine-and-cosine-functions) #11-25 odd; [OSP 6.2](https://openstax.org/books/precalculus/pages/6-2-graphs-of-the-other-trigonometric-functions) #6-9, 19, 21, 25, 31, 37 |
 | 1.3 Inverse Trig Functions | [OSP 6.3](https://openstax.org/books/precalculus/pages/6-3-inverse-trigonometric-functions) #9-15 odd, 25, 31-35 odd |
 | 1.4 Trig Word Problems | [OSP 6.3](https://openstax.org/books/precalculus/pages/6-3-inverse-trigonometric-functions) #53-61 odd; [OSP 6.1](https://openstax.org/books/precalculus/pages/6-1-graphs-of-the-sine-and-cosine-functions) #48 |
+| 2.1 Identities | [OSP 7.1](https://openstax.org/books/precalculus/pages/7-1-solving-trigonometric-equations-with-identities) #5-15 odd, 29-41 odd|
+| 2.2 Sum/Difference Identities | [OSP 7.2](https://openstax.org/books/precalculus/pages/7-2-sum-and-difference-identities) #5-25 odd |
 
