@@ -1,4 +1,4 @@
-# 1.3-1.4 Inverse Trig Functions, Word Problems
+# 2.1-2.2 Trig Identities
 
 ![](0.jpg)
 ![](1.jpg)
