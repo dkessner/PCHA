@@ -8,4 +8,5 @@
 | 1.4 Trig Word Problems | [OSP 6.3](https://openstax.org/books/precalculus/pages/6-3-inverse-trigonometric-functions) #53-61 odd; [OSP 6.1](https://openstax.org/books/precalculus/pages/6-1-graphs-of-the-sine-and-cosine-functions) #48 |
 | 2.1 Identities | [OSP 7.1](https://openstax.org/books/precalculus/pages/7-1-solving-trigonometric-equations-with-identities) #5-15 odd, 29-41 odd|
 | 2.2 Sum/Difference Identities | [OSP 7.2](https://openstax.org/books/precalculus/pages/7-2-sum-and-difference-identities) #5-25 odd |
+| 2.3 Multiple Angle Identities | [OSP 7.3](https://openstax.org/books/precalculus/pages/7-3-double-angle-half-angle-and-reduction-formulas) # 5-17 odd, 31-35 odd, 39, 59 |
 
