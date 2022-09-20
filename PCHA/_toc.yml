@@ -20,4 +20,5 @@ parts:
       - file: unit2/index
         sections:
         - file: unit2/2.1-2.2_trig_identities/index
+        - file: unit2/2.3_multiple_angle_identities/index
       - file: about
