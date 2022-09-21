@@ -21,4 +21,5 @@ parts:
         sections:
         - file: unit2/2.1-2.2_trig_identities/index
         - file: unit2/2.3_multiple_angle_identities/index
+        - file: unit2/2.4_law_of_sines_cosines/index
       - file: about
