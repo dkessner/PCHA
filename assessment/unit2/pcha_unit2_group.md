@@ -4,7 +4,7 @@ __PCHA 2022-23 / Dr. Kessner__
 __Name & Pledge:__  
 \vspace{.1in}
 
-__Have fun!__
+__No calculator!  Have fun!__
 
 \vspace{.1in}
 
@@ -72,7 +72,7 @@ __5.__  Solve the following triangle: $a = 10$, $c = 10\sqrt{3}$, $B = 30^{\circ
 
 \vspace{4in}
 
-Solve the following triangle: $a = 10$, $c = 5\sqrt{3}$, $B = 30^{\circ}$.
+Solve the following triangle: $a = 10$, $b = 10$, $C = 60^{\circ}$.
 
 \newpage
 
