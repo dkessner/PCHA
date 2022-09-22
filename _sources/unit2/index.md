@@ -7,6 +7,7 @@
 - <a href="../notes/PCHA_2.3_MultipleAngleIdentities_F.pdf">2.3 Multiple Angle Identities (F period)</a>
 - <a href="../notes/PCHA_2.3_MultipleAngleIdentities_C.pdf">2.3 Multiple Angle Identities (C period)</a>
 - <a href="../notes/PCHA_2.4_LawOfSinesCosines_F.pdf">2.4 Law of Sines / Cosines (F period)</a>
+- <a href="../notes/PCHA_2.4_LawOfSinesCosines_C.pdf">2.4 Law of Sines / Cosines (C period)</a>
 
 ## Assessments
 
