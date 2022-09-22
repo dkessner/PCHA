@@ -1,7 +1,7 @@
 # Unit 1 
 
 
-## Notes downloads
+## Notes
 
 - <a href="../notes/PCHA_1.1_UnitCircle.pdf">1.1 Unit Circle</a>
 - <a href="../notes/PCHA_1.2_TrigGraphs.pdf">1.2 Trig Graphs</a>
