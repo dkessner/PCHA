@@ -10,4 +10,5 @@
 | 2.2 Sum/Difference Identities | [OSP 7.2](https://openstax.org/books/precalculus/pages/7-2-sum-and-difference-identities) #5-25 odd |
 | 2.3 Multiple Angle Identities | [OSP 7.3](https://openstax.org/books/precalculus/pages/7-3-double-angle-half-angle-and-reduction-formulas) # 5-17 odd, 31-35 odd, 39, 59 |
 | 2.4 Law of Sines/Cosines | [OSP 8.1](https://openstax.org/books/precalculus/pages/8-1-non-right-triangles-law-of-sines) # 7, 9, 15, 17, 31, 33 [OSP 8.2](https://openstax.org/books/precalculus/pages/8-2-non-right-triangles-law-of-cosines) #7, 9, 21 |
+| 3.1-3.2 Vectors and Dot Product | [OSP 8.8](https://openstax.org/books/precalculus/pages/8-8-vectors) # 1-53 odd (#33-35: also find angle between vectors) |
 
