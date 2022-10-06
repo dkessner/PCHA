@@ -25,4 +25,5 @@ parts:
       - file: unit3/index
         sections:
         - file: unit3/3.1_vectors/index
+        - file: unit3/3.2_dot_product/index
       - file: about
