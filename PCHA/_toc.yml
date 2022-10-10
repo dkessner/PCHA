@@ -26,4 +26,5 @@ parts:
         sections:
         - file: unit3/3.1_vectors/index
         - file: unit3/3.2_dot_product/index
+        - file: unit3/3.3_parametric_equations/index
       - file: about
