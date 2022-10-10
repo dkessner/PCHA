@@ -11,4 +11,7 @@
 | 2.3 Multiple Angle Identities | [OSP 7.3](https://openstax.org/books/precalculus/pages/7-3-double-angle-half-angle-and-reduction-formulas) # 5-17 odd, 31-35 odd, 39, 59 |
 | 2.4 Law of Sines/Cosines | [OSP 8.1](https://openstax.org/books/precalculus/pages/8-1-non-right-triangles-law-of-sines) # 7, 9, 15, 17, 31, 33 [OSP 8.2](https://openstax.org/books/precalculus/pages/8-2-non-right-triangles-law-of-cosines) #7, 9, 21 |
 | 3.1-3.2 Vectors and Dot Product | [OSP 8.8](https://openstax.org/books/precalculus/pages/8-8-vectors) # 1-53 odd (#33-35: also find angle between vectors) |
+| 3.3 Parametric Equations | [OSP 8.6](https://openstax.org/books/precalculus/pages/8-6-parametric-equations) # 7, 9, 39, 41 [OSP 8.7](https://openstax.org/books/precalculus/pages/8-7-parametric-equations-graphs) do Example 5, # 13, 17, 45 (also do with center at (3,4)), 63 (ignore instructions, find max height and max distance), 65-69 odd |
+| 3.4 Polar Coordinates | [OSP 8.3](https://openstax.org/books/precalculus/pages/8-3-polar-coordinates) # 7-15 odd, 41-43 odd (find *all* polar coordinates), 45-53 odd |
+| 3.5 Polar Graphs | [OSP 8.3](https://openstax.org/books/precalculus/pages/8-3-polar-coordinates) # 17, 21, 29-39 odd, [OSP 8.4](https://openstax.org/books/precalculus/pages/8-4-polar-coordinates-graphs) # (graph and analyze) 7, 9, 11, 17, 27, 39 |
 
