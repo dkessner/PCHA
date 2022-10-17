@@ -11,3 +11,7 @@
 - <a href="../notes/PCHA_3.5_PolarGraphs_C.pdf">3.5 Polar Graphs (C period)</a>
 - <a href="../notes/PCHA_3.5_PolarGraphs_F.pdf">3.5 Polar Graphs (F period)</a>
 
+## Assessments
+
+- <a href="../assessments/pcha_coding_project.pdf">Unit 3 Coding Project</a>
+
