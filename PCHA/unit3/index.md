@@ -10,6 +10,7 @@
 - <a href="../notes/PCHA_3.3_ParametricEquations_F.pdf">3.3 Parametric Equations (F period)</a>
 - <a href="../notes/PCHA_3.5_PolarGraphs_C.pdf">3.5 Polar Graphs (C period)</a>
 - <a href="../notes/PCHA_3.5_PolarGraphs_F.pdf">3.5 Polar Graphs (F period)</a>
+- <a href="../notes/PCHA_3.6_LinearSystems_C.pdf">3.6 Linear Systems (C period)</a>
 
 ## Assessments
 
