@@ -29,4 +29,5 @@ parts:
         - file: unit3/3.3_parametric_equations/index
         - file: unit3/3.5_polar_graphs/index
         - file: unit3/3.6_linear_systems/index
+        - file: unit3/3.7_matrices/index
       - file: about
