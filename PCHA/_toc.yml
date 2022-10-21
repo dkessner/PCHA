@@ -30,4 +30,5 @@ parts:
         - file: unit3/3.5_polar_graphs/index
         - file: unit3/3.6_linear_systems/index
         - file: unit3/3.7_matrices/index
+        - file: unit3/3.8_matrix_inverses/index
       - file: about
