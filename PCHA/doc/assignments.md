@@ -18,4 +18,5 @@
 | 3.7 Matrices | [OSP 9.5](https://openstax.org/books/precalculus/pages/9-5-matrices-and-matrix-operations) # 1-29 odd, 41-45 odd |
 | 3.8 Matrix inverses, determinants | [OSP 9.7](https://openstax.org/books/precalculus/pages/9-7-solving-systems-with-inverses) # 7-17 odd, 27, 29, <a href="../assessments/pcha_3.8_homework.pdf">handout problems</a>, [OSP 9.8](https://openstax.org/books/precalculus/pages/9-8-solving-systems-with-cramers-rule) # 5, 7, 9, 17, 21 |
 | Unit 3 Review exercises | [OSP Ch8 Review Exercises](https://openstax.org/books/precalculus/pages/8-review-exercises) # 7-21 odd, 23-27 odd (analyze graphs), 47, 53-63 odd, [OSP Ch9 Review Exercises](https://openstax.org/books/precalculus/pages/9-review-exercises) # 5 (also solve with matrix inverse), 39-49 odd, 57, 61, 65 |
+| 4.1 Function properties | [handout problems](../4.1_function_properties/handout), SZ1.6 # 42-73 ([Stitz-Zeager Precalculus](https://www.stitz-zeager.com/))|
 
