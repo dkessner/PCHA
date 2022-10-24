@@ -14,6 +14,7 @@
 - <a href="../notes/PCHA_3.7_Matrices_C.pdf">3.7 Matrices (C period)</a>
 - <a href="../notes/PCHA_3.7_Matrices_F.pdf">3.7 Matrices (F period)</a>
 - <a href="../notes/PCHA_3.8_MatrixInverses_C.pdf">3.8 Matrix Inverses (C period)</a>
+- <a href="../notes/PCHA_3.8_MatrixInverses_F.pdf">3.8 Matrix Inverses (F period)</a>
 
 ## Assessments
 
