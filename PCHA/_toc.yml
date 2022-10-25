@@ -31,4 +31,7 @@ parts:
         - file: unit3/3.6_linear_systems/index
         - file: unit3/3.7_matrices/index
         - file: unit3/3.8_matrix_inverses/index
+      - file: unit4/index
+        sections:
+        - file: unit4/4.1_function_properties/index
       - file: about
