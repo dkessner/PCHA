@@ -20,5 +20,6 @@
 
 - <a href="../assessments/pcha_coding_project.pdf">Unit 3 Coding Project</a>
 - <a href="../assessments/pcha_coding_example.py">Coding example</a>
-
+- <a href="../assessments/pcha_unit3_group.pdf">Unit 3 Group Work</a>
+- <a href="../assessments/pcha_unit3_group_key.pdf">Unit 3 Group Work key</a>
 
