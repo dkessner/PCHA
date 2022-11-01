@@ -34,4 +34,5 @@ parts:
       - file: unit4/index
         sections:
         - file: unit4/4.1_function_properties/index
+        - file: unit4/4.2_function_operations/index
       - file: about
