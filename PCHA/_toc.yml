@@ -35,4 +35,5 @@ parts:
         sections:
         - file: unit4/4.1_function_properties/index
         - file: unit4/4.2_function_operations/index
+        - file: unit4/4.3_polynomials/index
       - file: about
