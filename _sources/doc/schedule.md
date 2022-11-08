@@ -16,12 +16,12 @@
 |8   |Oct 17|3/2|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra; 3.8 Matrix inverses and determinants;|
 |9   |Oct 24|2/3|4.1 Function properties; __Group Work Unit 3__ (Thu/Fri Oct 27/28); |
 |10  |Oct 31|2|Pumpkin Day Oct 31; 4.2 Function operations, transformations, composition, inverses; __Coding Project due__, __Test Unit 3__ (Thu/Fri Nov 3/4);  |
-|11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, __Group Work Unit 4__ (Wed/Thu Nov 9/10); |
-|12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra; __Test Unit 4__ (Wed/Thu Nov 16/17)|
+|11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, __Unit 4 Group Work 1__ (Wed/Thu Nov 9/10); |
+|12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra, __Unit 4 Quiz 1__ (Mon/Tue Nov 14/15); Q&A, review, juggling|
 |--  |Nov 21|-|_Thanksgiving Break_|
-|13  |Nov 28|3/2|4.6 Rational functions; 5.1 Parabolas, 5.2 Ellipses; |
-|14  |Dec 5 |2|5.3 Hyperbolas; __Group Work Unit 5__ (Thu/Fri Dec 8/9)|
-|15  |Dec 12|1/2| __Test Unit 5__ (Tue/Thu Dec 13/15) |
+|13  |Nov 28|3/2|4.6 Rational functions, __Unit 4 Group Work 2__; 5.1 Parabolas, __Unit 4 Quiz 2__; |
+|14  |Dec 5 |2|5.2 Ellipses, __Unit 4 Group Work 3__;  5.3 Hyperbolas, __Unit 4 Quiz 3__; |
+|15  |Dec 12|1/2| Reassessment |
 
 ## Semester 2
 
