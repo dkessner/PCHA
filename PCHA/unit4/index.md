@@ -9,4 +9,8 @@
 - <a href="../notes/PCHA_4.3_Polynomials_C.pdf">4.3 Polynomials (C period)</a>
 - <a href="../notes/PCHA_4.3_Polynomials_F.pdf">4.3 Polynomials (F period)</a>
 
+## Assessments
+
+- <a href="../assessments/pcha_unit4_group_1.pdf">Unit 4 Group Work 1</a>
+
 
