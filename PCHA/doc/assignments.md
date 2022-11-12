@@ -24,3 +24,4 @@
 | 4.4 More Polynomials | [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 29, 33, 37 | 
 | 4.5 Fundamental Theorem of Algebra | [OSP 3.1](https://openstax.org/books/precalculus/pages/3-1-complex-numbers) # 5-43 odd [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) For all three of these exercises, find the complete factorizations over both real and complex numbers. # 41 (2 is a root), 43 (-2/3 is a root), 45 (1-4i is a root) | 
 
+
