@@ -10,6 +10,7 @@
 - <a href="../notes/PCHA_4.3_Polynomials_F.pdf">4.3 Polynomials (F period)</a>
 - <a href="../notes/PCHA_4.4_MorePolynomials_C.pdf">4.4 More Polynomials (C period)</a>
 - <a href="../notes/PCHA_4.4_MorePolynomials_F.pdf">4.4 More Polynomials (F period)</a>
+- <a href="../notes/PCHA_4.5_FundamentalTheoremOfAlgebra_C.pdf">4.5 Fundamental Theorem of Algebra (C period)</a>
 
 ## Assessments
 

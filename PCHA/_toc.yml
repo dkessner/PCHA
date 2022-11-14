@@ -37,4 +37,5 @@ parts:
         - file: unit4/4.2_function_operations/index
         - file: unit4/4.3_polynomials/index
         - file: unit4/4.4_more_polynomials/index
+        - file: unit4/4.5_fundamental_theorem_of_algebra/index
       - file: about
