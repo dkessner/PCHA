@@ -19,9 +19,9 @@
 |11  |Nov 7 |2|4.3 Polynomials; 4.4 More polynomials, __Unit 4 Group Work 1__ (Wed/Thu Nov 9/10); |
 |12  |Nov 14|2|4.5 Complex numbers / Fundamental Theorem of Algebra, __Unit 4 Quiz 1__ (Mon/Tue Nov 14/15); Q&A, review, juggling|
 |--  |Nov 21|-|_Thanksgiving Break_|
-|13  |Nov 28|3/2|4.6 Rational functions, __Unit 4 Group Work 2__; 5.1 Parabolas, __Unit 4 Quiz 2__; |
-|14  |Dec 5 |2|5.2 Ellipses, __Unit 4 Group Work 3__;  5.3 Hyperbolas, __Unit 4 Quiz 3__; |
-|15  |Dec 12|1/2| Reassessment |
+|13  |Nov 28|3/2|4.6 Rational functions, __Unit 4 Group Work 2__; __Unit 4 Quiz 2__; 5.1 Parabolas, __Unit 4 Group Work 3__ |
+|14  |Dec 5 |2|__Unit 4 Quiz 3__, 5.2 Ellipses;  5.3 Hyperbolas, __Unit 5 Group Work__; |
+|15  |Dec 12|1/2| __Unit 5 Quiz__ |
 
 ## Semester 2
 
