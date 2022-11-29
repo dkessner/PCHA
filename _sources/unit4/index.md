@@ -13,6 +13,7 @@
 - <a href="../notes/PCHA_4.5_FundamentalTheoremOfAlgebra_C.pdf">4.5 Fundamental Theorem of Algebra (C period)</a>
 - <a href="../notes/PCHA_4.5_FundamentalTheoremOfAlgebra_F.pdf">4.5 Fundamental Theorem of Algebra (F period)</a>
 - <a href="../notes/PCHA_4.6_RationalFunctions_C.pdf">4.6 Rational Functions (C period)</a>
+- <a href="../notes/PCHA_4.6_RationalFunctions_F.pdf">4.6 Rational Functions (F period)</a>
 
 ## Assessments
 
