@@ -39,4 +39,7 @@ parts:
         - file: unit4/4.4_more_polynomials/index
         - file: unit4/4.5_fundamental_theorem_of_algebra/index
         - file: unit4/4.6_rational_functions/index
+      - file: unit5/index
+        sections:
+        - file: unit5/5.1_parabolas/index
       - file: about
