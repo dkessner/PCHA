@@ -42,4 +42,5 @@ parts:
       - file: unit5/index
         sections:
         - file: unit5/5.1_parabolas/index
+        - file: unit5/5.2_ellipses/index
       - file: about
