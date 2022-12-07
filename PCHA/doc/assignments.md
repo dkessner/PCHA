@@ -26,4 +26,6 @@
 | 4.6 Rational functions | [OSP 3.7](https://openstax.org/books/precalculus/pages/3-7-rational-functions) # 11-19 odd, 31 (sketch a graph for all) | 
 | Unit 4 Review exercises | [OSP Ch3 Review Exercises](https://openstax.org/books/precalculus/pages/3-review-exercises) # 1-5 odd, 13-33 odd, 37-41 odd|
 | 5.1 Parabolas | [OSP 10.3](https://openstax.org/books/precalculus/pages/10-3-the-parabola) # 31-41 odd, 45, 47, 51, 53 | 
+| 5.2 Ellipses | [OSP 10.1](https://openstax.org/books/precalculus/pages/10-1-the-ellipse) # 33-43 odd, 47, 49, 53, 55 | 
+| 5.3 Hyperbolas | [OSP 10.2](https://openstax.org/books/precalculus/pages/10-2-the-hyperbola) # 31-39 odd, 45, 47, 51, 53 | 
 
