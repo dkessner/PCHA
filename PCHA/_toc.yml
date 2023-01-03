@@ -44,4 +44,7 @@ parts:
         - file: unit5/5.1_parabolas/index
         - file: unit5/5.2_ellipses/index
         - file: unit5/5.3_hyperbolas/index
+      - file: unit6/index
+        sections:
+        - file: unit6/6.1_combinatorics/index
       - file: about
