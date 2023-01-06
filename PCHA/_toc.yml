@@ -47,4 +47,5 @@ parts:
       - file: unit6/index
         sections:
         - file: unit6/6.1_combinatorics/index
+        - file: unit6/6.2_binomial_theorem/index
       - file: about
