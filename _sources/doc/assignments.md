@@ -30,4 +30,6 @@
 | 5.3 Hyperbolas | [OSP 10.2](https://openstax.org/books/precalculus/pages/10-2-the-hyperbola) # 31-39 odd, 45, 47, 51, 53 | 
 | 6.1 Combinatorics |<a href="../assessments/pcha_6.1_homework.pdf">handout problems</a>; optional extra practice: [OSP 11.5](https://openstax.org/books/precalculus/pages/11-5-counting-principles) # 7-29 odd | 
 | 6.2 Binomial theorem |[OSP 11.6](https://openstax.org/books/precalculus/pages/11-6-binomial-theorem) # 5-9 odd, 13-35 odd | 
+| 6.3 Probability |[OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability) # 7-45 odd | 
+| 6.4 More Probability |[OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability) # 18-25 all (twice: once with a fair coin, and once with a coin with P(heads) = .75), 47-59 odd | 
 
