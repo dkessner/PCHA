@@ -10,3 +10,8 @@
 - <a href="../notes/PCHA_6.3_Probability_F.pdf">6.3 Probability (F period)</a>
 - <a href="../notes/PCHA_6.4_MoreProbability_C.pdf">6.4 More Probability (C period)</a>
 
+## Assessments
+
+- <a href="../assessments/pcha_unit6_group_1.pdf">Unit 6 Group Work #1</a>
+- <a href="../assessments/pcha_unit6_group_1_key.pdf">Unit 6 Group Work #1 key</a>
+
