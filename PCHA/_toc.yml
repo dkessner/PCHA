@@ -49,4 +49,5 @@ parts:
         - file: unit6/6.1_combinatorics/index
         - file: unit6/6.2_binomial_theorem/index
         - file: unit6/6.3_probability/index
+        - file: unit6/6.4_more_probability/index
       - file: about
