@@ -10,6 +10,7 @@
 - <a href="../notes/PCHA_6.3_Probability_F.pdf">6.3 Probability (F period)</a>
 - <a href="../notes/PCHA_6.4_MoreProbability_C.pdf">6.4 More Probability (C period)</a>
 - <a href="../notes/PCHA_6.4_MoreProbability_F.pdf">6.4 More Probability (F period)</a>
+- <a href="../notes/PCHA_6.5_Sequences_C.pdf">6.5 Sequences (C period)</a>
 - <a href="../notes/PCHA_6.5_Sequences_F.pdf">6.5 Sequences (F period)</a>
 
 ## Assessments
