@@ -30,9 +30,9 @@
 |Week|Date  |#|Topics|
 |----|------|-|----------------------------------------|
 |1   |Jan 2 |2|6.1 Combinatorics;6.2 Binomial theorem|
-|2   |Jan 9 |3/2| 6.3 Probability; 6.4 More Probability; __Group Work Unit 6a__ (Thu/Fri Jan 12/13);|
+|2   |Jan 9 |3/2| 6.3 Probability; 6.4 More Probability; __Group Work Unit 6.1__ (Thu/Fri Jan 12/13);|
 |3   |Jan 16|2|6.5 Sequences; 6.6 Series; |
-|4   |Jan 23|2/3| __Group Work Unit 6b__ (Mon/Tue Jan 23/24); 6.x Bonus lesson, coding (sequences and series);|
+|4   |Jan 23|2/3| __Group Work Unit 6.2__ (Mon/Tue Jan 23/24); 6.x Bonus lesson, coding (sequences and series);|
 |5   |Jan 30|2| __Test Unit 6__ (Mon/Tue Jan 30/31); 7.1 Exponential / Logarithm;|
 |6   |Feb 6 |3/2| 7.2 Exponential / Logarithm; __Group Work Unit 7__ (Mon/Tue Feb 6/7) |
 |7   |Feb 13|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
