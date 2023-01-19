@@ -51,4 +51,5 @@ parts:
         - file: unit6/6.3_probability/index
         - file: unit6/6.4_more_probability/index
         - file: unit6/6.5_sequences/index
+        - file: unit6/6.6_series/index
       - file: about
