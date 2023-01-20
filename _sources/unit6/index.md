@@ -12,6 +12,7 @@
 - <a href="../notes/PCHA_6.4_MoreProbability_F.pdf">6.4 More Probability (F period)</a>
 - <a href="../notes/PCHA_6.5_Sequences_C.pdf">6.5 Sequences (C period)</a>
 - <a href="../notes/PCHA_6.5_Sequences_F.pdf">6.5 Sequences (F period)</a>
+- <a href="../notes/PCHA_6.6_Series_C.pdf">6.6 Series (C period)</a>
 - <a href="../notes/PCHA_6.6_Series_F.pdf">6.6 Series (F period)</a>
 
 ## Assessments
