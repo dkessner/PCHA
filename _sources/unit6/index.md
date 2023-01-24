@@ -20,3 +20,5 @@
 - <a href="../assessments/pcha_unit6_group_1.pdf">Unit 6 Group Work #1</a>
 - <a href="../assessments/pcha_unit6_group_1_key.pdf">Unit 6 Group Work #1 key</a>
 
+- <a href="../assessments/pcha_unit6_group_2.pdf">Unit 6 Group Work #2</a>
+- <a href="../assessments/pcha_unit6_group_2_key.pdf">Unit 6 Group Work #2 key</a>
