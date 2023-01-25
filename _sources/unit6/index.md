@@ -14,6 +14,7 @@
 - <a href="../notes/PCHA_6.5_Sequences_F.pdf">6.5 Sequences (F period)</a>
 - <a href="../notes/PCHA_6.6_Series_C.pdf">6.6 Series (C period)</a>
 - <a href="../notes/PCHA_6.6_Series_F.pdf">6.6 Series (F period)</a>
+- <a href="../notes/PCHA_6.x_BonusLesson_F.pdf">6.x Bonus Lesson (F period)</a>
 
 ## Assessments
 
