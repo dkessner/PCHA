@@ -53,4 +53,5 @@ parts:
         - file: unit6/6.5_sequences/index
         - file: unit6/6.6_series/index
         - file: unit6/6.x_bonus_lesson/index
+      - file: unit7/index
       - file: about

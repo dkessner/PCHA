@@ -34,7 +34,7 @@
 |3   |Jan 16|2|6.5 Sequences; 6.6 Series; |
 |4   |Jan 23|2/3| __Group Work Unit 6.2__ (Mon/Tue Jan 23/24); 6.x Bonus lesson, coding (sequences and series);|
 |5   |Jan 30|2| __Test Unit 6__ (Mon/Tue Jan 30/31); 7.1 Exponential / Logarithm;|
-|6   |Feb 6 |3/2| 7.2 Exponential / Logarithm; __Group Work Unit 7__ (Mon/Tue Feb 6/7) |
+|6   |Feb 6 |3/2| 7.2 Exponential / Logarithm; __Group Work Unit 7__ (Wed/Thu Feb 8/9) |
 |7   |Feb 13|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
 |8   |Feb 20|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
 |9   |Feb 27|2/3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Thu/Fri Mar 2/3) |
