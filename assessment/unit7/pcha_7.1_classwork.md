@@ -61,13 +61,9 @@ $\log_{10}(1000)$
 
 __2.__ Graph the following: 
 
-$y = 2^x$
+$y = 2^x$ and $y = \log_2 x$ on the same graph.
 
-$y = \log_2 x$
-
-$y = 10^x$
-
-$y = \log_{10}x$
+$y = 10^x$ and $y = \log_{10}x$ on the same graph.
 
 
 
