@@ -35,4 +35,5 @@
 | 6.5 Sequences |[OSP 11.1](https://openstax.org/books/precalculus/pages/11-1-sequences-and-their-notations) # 7-17 odd, [OSP 11.2](https://openstax.org/books/precalculus/pages/11-2-arithmetic-sequences) # 11-15 odd, 19, 29, 31, 43, 45, [OSP 11.3](https://openstax.org/books/precalculus/pages/11-3-geometric-sequences) # 7, 15, 17, 25, 35 | 
 | 6.6 Series |[OSP 11.4](https://openstax.org/books/precalculus/pages/11-4-series-and-their-notations) # 7-25 odd, 31-45 odd | 
 | Unit 6 Review exercises | [OSP Ch11 Review Exercises](https://openstax.org/books/precalculus/pages/11-review-exercises) # 1-57 odd |
+| 7.1 Exponential / logarithm |[OSC1 1.5](https://openstax.org/books/calculus-volume-1/pages/1-5-exponential-and-logarithmic-functions) # 233-238 all, 239-297 odd, 299 and 307 (do these two twice: with base 2 and base e)| 
 
