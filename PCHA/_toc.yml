@@ -54,4 +54,6 @@ parts:
         - file: unit6/6.6_series/index
         - file: unit6/6.x_bonus_lesson/index
       - file: unit7/index
+        sections:
+        - file: unit7/7.1_exp_log/index
       - file: about
