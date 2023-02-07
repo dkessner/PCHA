@@ -3,6 +3,7 @@
 ## Notes
 
 - <a href="../notes/PCHA_7.1_ExpLog_C.pdf">7.1 Exponential / Logarithm (C period)</a>
+- <a href="../notes/PCHA_7.1_ExpLog_F.pdf">7.1 Exponential / Logarithm (F period)</a>
 
 ## Assessments
 
