@@ -8,7 +8,7 @@
 ## Assessments
 
 - <a href="../assessments/pcha_7.1_classwork.pdf">7.1 Classwork</a>
-
-
+- <a href="../assessments/pcha_unit7_group.pdf">Unit 7 Group Work</a>
+- <a href="../assessments/pcha_unit7_group_key.pdf">Unit 7 Group Work key</a>
 
 
