@@ -56,4 +56,7 @@ parts:
       - file: unit7/index
         sections:
         - file: unit7/7.1_exp_log/index
+      - file: unit8/index
+        sections:
+        - file: unit8/8.1_limits/index
       - file: about
