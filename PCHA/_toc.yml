@@ -60,4 +60,5 @@ parts:
         sections:
         - file: unit8/8.1_limits/index
         - file: unit8/8.2_continuity/index
+        - file: unit8/8.3_derivative/index
       - file: about
