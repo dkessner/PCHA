@@ -40,4 +40,7 @@
 | 8.2 Continuity |[OSC1 2.4](https://openstax.org/books/calculus-volume-1/pages/2-4-continuity) # 131-149 odd, 155, [OSC1 3.1](https://openstax.org/books/calculus-volume-1/pages/3-1-defining-the-derivative) # 1-9 odd | 
 | 8.3 The Derivative |[OSC1 3.1](https://openstax.org/books/calculus-volume-1/pages/3-1-defining-the-derivative) # 11-15 odd, 23, 41, 43, 47, 51, [OSC1 3.2](https://openstax.org/books/calculus-volume-1/pages/3-2-the-derivative-as-a-function) # 55-67 odd | 
 | 8.4 Differentiation rules |[OSC1 3.3](https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules) # 107, 109, 113, 115, 117, 123, 133, 135, 137, 139, 143 | 
+| 8.5 Rates of change | [OSC1 3.4](https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change) # 151-159 odd |
+| 8.6 Trig functions | [OSC1 3.5](https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions) # 175, 177, 185, 187, 191, 193, 205-208, 209, 211 |
+| Unit 8 Review exercises | [OSC1 Ch2 Review](https://openstax.org/books/calculus-volume-1/pages/2-review-exercises) # 213-223 odd, 227, 231; [OSC1 Ch3 Review](https://openstax.org/books/calculus-volume-1/pages/3-review-exercises) # 371, 373, 377, 387 |
 
