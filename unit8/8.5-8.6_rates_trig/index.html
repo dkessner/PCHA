@@ -6,56 +6,56 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Unit 3 &#8212; PCHA &lt;br/&gt; Pre-Calculus Honors Accelerated &lt;br/&gt; 2022-23 &lt;br/&gt; Dr. Kessner</title>
+    <title>8.5-8.6 Rates of Change, Trig Functions &#8212; PCHA &lt;br/&gt; Pre-Calculus Honors Accelerated &lt;br/&gt; 2022-23 &lt;br/&gt; Dr. Kessner</title>
     
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
-    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
   <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
   <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/style.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/style.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/design-tabs.js"></script>
+    <script src="../../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <link rel="author" title="About these documents" href="../about.html" />
-    <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="3.1 Vectors" href="3.1_vectors/index.html" />
-    <link rel="prev" title="2.4 Law of Sines / Cosines" href="../unit2/2.4_law_of_sines_cosines/index.html" />
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="author" title="About these documents" href="../../about.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="About" href="../../about.html" />
+    <link rel="prev" title="8.4 Derivative Rules" href="../8.4_derivative_rules/index.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -90,19 +90,19 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="bd-sidebar noprint" id="site-navigation">
     <div class="bd-sidebar__content">
         <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="../index.html">
+    <a class="navbar-brand text-wrap" href="../../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
         
       
       
-      <img src="../_static/allie.png" class="logo" alt="logo">
+      <img src="../../_static/allie.png" class="logo" alt="logo">
       
       
       <h1 class="site-logo" id="site-title">PCHA <br/> Pre-Calculus Honors Accelerated <br/> 2022-23 <br/> Dr. Kessner</h1>
       
     </a>
-</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
   <i class="icon fas fa-search"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
@@ -110,24 +110,24 @@ const thebe_selector_output = ".output, .cell_output"
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
-                <a class="reference internal" href="../welcome.html">
+                <a class="reference internal" href="../../welcome.html">
                     Welcome to PCHA 2022-23!
                 </a>
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="../doc/schedule.html">
+  <a class="reference internal" href="../../doc/schedule.html">
    Schedule 2022-23
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../doc/assignments.html">
+  <a class="reference internal" href="../../doc/assignments.html">
    Assignments
   </a>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../doc/course_info.html">
+  <a class="reference internal" href="../../doc/course_info.html">
    Course Information
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
@@ -137,19 +137,19 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../doc/resources.html">
+    <a class="reference internal" href="../../doc/resources.html">
      Resources
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../doc/topics.html">
+    <a class="reference internal" href="../../doc/topics.html">
      Topics
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit1/index.html">
+  <a class="reference internal" href="../../unit1/index.html">
    Unit 1
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
@@ -159,29 +159,29 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit1/1.1_unit_circle/index.html">
+    <a class="reference internal" href="../../unit1/1.1_unit_circle/index.html">
      1.1 Unit Circle
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit1/1.2_trig_graphs/index.html">
+    <a class="reference internal" href="../../unit1/1.2_trig_graphs/index.html">
      1.2 Trig Graphs
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit1/1.3-1.4_inverse_trig_word_problems/index.html">
+    <a class="reference internal" href="../../unit1/1.3-1.4_inverse_trig_word_problems/index.html">
      1.3-1.4 Inverse Trig Functions, Word Problems
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit1/playground.html">
+    <a class="reference internal" href="../../unit1/playground.html">
      Playground
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit2/index.html">
+  <a class="reference internal" href="../../unit2/index.html">
    Unit 2
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
@@ -191,71 +191,71 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit2/2.1-2.2_trig_identities/index.html">
+    <a class="reference internal" href="../../unit2/2.1-2.2_trig_identities/index.html">
      2.1-2.2 Trig Identities
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit2/2.3_multiple_angle_identities/index.html">
+    <a class="reference internal" href="../../unit2/2.3_multiple_angle_identities/index.html">
      2.3 Multiple Angle Identities
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit2/2.4_law_of_sines_cosines/index.html">
+    <a class="reference internal" href="../../unit2/2.4_law_of_sines_cosines/index.html">
      2.4 Law of Sines / Cosines
     </a>
    </li>
   </ul>
  </li>
- <li class="toctree-l1 current active has-children">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../unit3/index.html">
    Unit 3
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
   <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.1_vectors/index.html">
+    <a class="reference internal" href="../../unit3/3.1_vectors/index.html">
      3.1 Vectors
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.2_dot_product/index.html">
+    <a class="reference internal" href="../../unit3/3.2_dot_product/index.html">
      3.2 Dot Product
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.3_parametric_equations/index.html">
+    <a class="reference internal" href="../../unit3/3.3_parametric_equations/index.html">
      3.3 Parametric Equations
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.5_polar_graphs/index.html">
+    <a class="reference internal" href="../../unit3/3.5_polar_graphs/index.html">
      3.5 Polar Graphs
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.6_linear_systems/index.html">
+    <a class="reference internal" href="../../unit3/3.6_linear_systems/index.html">
      3.6 Linear Systems
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.7_matrices/index.html">
+    <a class="reference internal" href="../../unit3/3.7_matrices/index.html">
      3.7 Matrices
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="3.8_matrix_inverses/index.html">
+    <a class="reference internal" href="../../unit3/3.8_matrix_inverses/index.html">
      3.8 Matrix Inverses
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit4/index.html">
+  <a class="reference internal" href="../../unit4/index.html">
    Unit 4
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
@@ -265,39 +265,39 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.1_function_properties/index.html">
+    <a class="reference internal" href="../../unit4/4.1_function_properties/index.html">
      4.1 Function Properties
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.2_function_operations/index.html">
+    <a class="reference internal" href="../../unit4/4.2_function_operations/index.html">
      4.2 Function Operations
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.3_polynomials/index.html">
+    <a class="reference internal" href="../../unit4/4.3_polynomials/index.html">
      4.3 Polynomials
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.4_more_polynomials/index.html">
+    <a class="reference internal" href="../../unit4/4.4_more_polynomials/index.html">
      4.4 More Polynomials
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.5_fundamental_theorem_of_algebra/index.html">
+    <a class="reference internal" href="../../unit4/4.5_fundamental_theorem_of_algebra/index.html">
      4.5 Fundamental Theorem of Algebra
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit4/4.6_rational_functions/index.html">
+    <a class="reference internal" href="../../unit4/4.6_rational_functions/index.html">
      4.6 Rational Functions
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit5/index.html">
+  <a class="reference internal" href="../../unit5/index.html">
    Unit 5
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
@@ -307,24 +307,24 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit5/5.1_parabolas/index.html">
+    <a class="reference internal" href="../../unit5/5.1_parabolas/index.html">
      5.1 Parabolas
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit5/5.2_ellipses/index.html">
+    <a class="reference internal" href="../../unit5/5.2_ellipses/index.html">
      5.2 Ellipses
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit5/5.3_hyperbolas/index.html">
+    <a class="reference internal" href="../../unit5/5.3_hyperbolas/index.html">
      5.3 Hyperbolas
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit6/index.html">
+  <a class="reference internal" href="../../unit6/index.html">
    Unit 6
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
@@ -334,44 +334,44 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.1_combinatorics/index.html">
+    <a class="reference internal" href="../../unit6/6.1_combinatorics/index.html">
      6.1 Combinatorics
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.2_binomial_theorem/index.html">
+    <a class="reference internal" href="../../unit6/6.2_binomial_theorem/index.html">
      6.2 Binomial Theorem
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.3_probability/index.html">
+    <a class="reference internal" href="../../unit6/6.3_probability/index.html">
      6.3 Probability
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.4_more_probability/index.html">
+    <a class="reference internal" href="../../unit6/6.4_more_probability/index.html">
      6.4 More Probability
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.5_sequences/index.html">
+    <a class="reference internal" href="../../unit6/6.5_sequences/index.html">
      6.5 Sequences
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.6_series/index.html">
+    <a class="reference internal" href="../../unit6/6.6_series/index.html">
      6.6 Series
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit6/6.x_bonus_lesson/index.html">
+    <a class="reference internal" href="../../unit6/6.x_bonus_lesson/index.html">
      6.x Bonus Lesson: Probability, Set Theory
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit7/index.html">
+  <a class="reference internal" href="../../unit7/index.html">
    Unit 7
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
@@ -381,51 +381,51 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit7/7.1_exp_log/index.html">
+    <a class="reference internal" href="../../unit7/7.1_exp_log/index.html">
      7.1 Exponential / Logarithm
     </a>
    </li>
   </ul>
  </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../unit8/index.html">
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="../index.html">
    Unit 8
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
   <label for="toctree-checkbox-9">
    <i class="fas fa-chevron-down">
    </i>
   </label>
-  <ul>
+  <ul class="current">
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit8/8.1_limits/index.html">
+    <a class="reference internal" href="../8.1_limits/index.html">
      8.1 Limits
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit8/8.2_continuity/index.html">
+    <a class="reference internal" href="../8.2_continuity/index.html">
      8.2 Continuity
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit8/8.3_derivative/index.html">
+    <a class="reference internal" href="../8.3_derivative/index.html">
      8.3 The Derivative
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../unit8/8.4_derivative_rules/index.html">
+    <a class="reference internal" href="../8.4_derivative_rules/index.html">
      8.4 Derivative Rules
     </a>
    </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="../unit8/8.5-8.6_rates_trig/index.html">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
      8.5-8.6 Rates of Change, Trig Functions
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../about.html">
+  <a class="reference internal" href="../../about.html">
    About
   </a>
  </li>
@@ -519,7 +519,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/dkessner/PCHA/issues/new?title=Issue%20on%20page%20%2Funit3/index.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/dkessner/PCHA/issues/new?title=Issue%20on%20page%20%2Funit8/8.5-8.6_rates_trig/index.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -547,7 +547,7 @@ title="Open an issue"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/unit3/index.md"
+        <a href="../../_sources/unit8/8.5-8.6_rates_trig/index.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -584,70 +584,23 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#notes">
-   Notes
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#assessments">
-   Assessments
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Unit 3</h1>
+                <h1>8.5-8.6 Rates of Change, Trig Functions</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#notes">
-   Notes
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#assessments">
-   Assessments
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -655,38 +608,12 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="unit-3">
-<h1>Unit 3<a class="headerlink" href="#unit-3" title="Permalink to this headline">#</a></h1>
-<section id="notes">
-<h2>Notes<a class="headerlink" href="#notes" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p><a href="../notes/PCHA_3.1_Vectors_C.pdf">3.1 Vectors (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.1_Vectors_F.pdf">3.1 Vectors (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.2_DotProduct_C.pdf">3.2 Dot Product (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.2_DotProduct_F.pdf">3.2 Dot Product (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.3_ParametricEquations_C.pdf">3.3 Parametric Equations (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.3_ParametricEquations_F.pdf">3.3 Parametric Equations (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.5_PolarGraphs_C.pdf">3.5 Polar Graphs (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.5_PolarGraphs_F.pdf">3.5 Polar Graphs (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.6_LinearSystems_C.pdf">3.6 Linear Systems (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.6_LinearSystems_F.pdf">3.6 Linear Systems (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.7_Matrices_C.pdf">3.7 Matrices (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.7_Matrices_F.pdf">3.7 Matrices (F period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.8_MatrixInverses_C.pdf">3.8 Matrix Inverses (C period)</a></p></li>
-<li><p><a href="../notes/PCHA_3.8_MatrixInverses_F.pdf">3.8 Matrix Inverses (F period)</a></p></li>
-</ul>
-</section>
-<section id="assessments">
-<h2>Assessments<a class="headerlink" href="#assessments" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p><a href="../assessments/pcha_coding_project.pdf">Unit 3 Coding Project</a></p></li>
-<li><p><a href="../assessments/pcha_coding_example.py">Coding example</a></p></li>
-<li><p><a href="../assessments/pcha_unit3_group.pdf">Unit 3 Group Work</a></p></li>
-<li><p><a href="../assessments/pcha_unit3_group_key.pdf">Unit 3 Group Work key</a></p></li>
-</ul>
-</section>
-<div class="toctree-wrapper compound">
-</div>
+  <section class="tex2jax_ignore mathjax_ignore" id="rates-of-change-trig-functions">
+<h1>8.5-8.6 Rates of Change, Trig Functions<a class="headerlink" href="#rates-of-change-trig-functions" title="Permalink to this headline">#</a></h1>
+<p><img alt="" src="../../_images/034.jpg" />
+<img alt="" src="../../_images/132.jpg" />
+<img alt="" src="../../_images/231.jpg" />
+<img alt="" src="../../_images/324.jpg" /></p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -702,7 +629,7 @@ title="Print to PDF"
         },
         kernelOptions: {
             name: "python3",
-            path: "./unit3"
+            path: "./unit8/8.5-8.6_rates_trig"
         },
         predefinedOutput: true
     }
@@ -716,17 +643,17 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="../unit2/2.4_law_of_sines_cosines/index.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="../8.4_derivative_rules/index.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">2.4 Law of Sines / Cosines</p>
+            <p class="prev-next-title">8.4 Derivative Rules</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="3.1_vectors/index.html" title="next page">
+    <a class='right-next' id="next-link" href="../../about.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">3.1 Vectors</p>
+        <p class="prev-next-title">About</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
@@ -751,7 +678,7 @@ title="Print to PDF"
     </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
 
 
   </body>
