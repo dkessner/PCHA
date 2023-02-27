@@ -62,4 +62,5 @@ parts:
         - file: unit8/8.2_continuity/index
         - file: unit8/8.3_derivative/index
         - file: unit8/8.4_derivative_rules/index
+        - file: unit8/8.5-8.6_rates_trig/index
       - file: about
