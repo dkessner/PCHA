@@ -10,5 +10,6 @@
 - <a href="../notes/PCHA_8.3_Derivative_F.pdf">8.3 The Derivative (F period)</a>
 - <a href="../notes/PCHA_8.4_DerivativeRules_C.pdf">8.4 Derivative Rules (C period)</a>
 - <a href="../notes/PCHA_8.4_DerivativeRules_F.pdf">8.4 Derivative Rules (F period)</a>
-- <a href="../notes/PCHA_8.5-8.6_RatesOfChange_Trig_F.pdf">8.5-8.6 Rates of Change, Trig Functions</a>
+- <a href="../notes/PCHA_8.5-8.6_RatesOfChange_Trig_C.pdf">8.5-8.6 Rates of Change, Trig Functions (C period)</a>
+- <a href="../notes/PCHA_8.5-8.6_RatesOfChange_Trig_F.pdf">8.5-8.6 Rates of Change, Trig Functions (F period)</a>
 
