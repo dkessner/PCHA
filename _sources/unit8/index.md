@@ -13,3 +13,8 @@
 - <a href="../notes/PCHA_8.5-8.6_RatesOfChange_Trig_C.pdf">8.5-8.6 Rates of Change, Trig Functions (C period)</a>
 - <a href="../notes/PCHA_8.5-8.6_RatesOfChange_Trig_F.pdf">8.5-8.6 Rates of Change, Trig Functions (F period)</a>
 
+## Assessments
+
+- <a href="../assessments/pcha_unit8_group.pdf">Unit 8 Group Work</a>
+- <a href="../assessments/pcha_unit8_group_key.pdf">Unit 8 Group Work key</a>
+
