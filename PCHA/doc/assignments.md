@@ -43,4 +43,5 @@
 | 8.5 Rates of change | [OSC1 3.4](https://openstax.org/books/calculus-volume-1/pages/3-4-derivatives-as-rates-of-change) # 151-159 odd |
 | 8.6 Trig functions | [OSC1 3.5](https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions) # 175, 177, 185, 187, 191, 193, 205-208, 209, 211 |
 | Unit 8 Review exercises | [OSC1 Ch2 Review](https://openstax.org/books/calculus-volume-1/pages/2-review-exercises) # 213-223 odd, 227, 231; [OSC1 Ch3 Review](https://openstax.org/books/calculus-volume-1/pages/3-review-exercises) # 371, 373, 377, 387 |
+| 9.1 Chain Rule | [OSC1 3.6](https://openstax.org/books/calculus-volume-1/pages/3-6-the-chain-rule) # 221-237 odd |
 
