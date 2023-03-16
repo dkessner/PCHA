@@ -66,4 +66,5 @@ parts:
       - file: unit9/index
         sections:
         - file: unit9/9.1_chain_rule/index
+        - file: unit9/9.2_implicit_diff/index
       - file: about
