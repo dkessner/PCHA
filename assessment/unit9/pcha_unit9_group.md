@@ -183,8 +183,8 @@ are the components of the initial velocity vector $v$:
 \end{scriptsize}
 \end{tikzpicture}
 
-Suppose that you launch a rocket from the ground, at an angle
-of $60^{\circ}$, with an initial speed of $\frac{128}{\sqrt{3}}$ ft/sec. 
+Suppose that you launch a rocket from an 80' building, at an angle
+of $30^{\circ}$, with an initial speed of $128$ ft/sec. 
 
 a. Write equations for $x(t)$ and $y(t)$.
 
