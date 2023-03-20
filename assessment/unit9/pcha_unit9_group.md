@@ -55,7 +55,7 @@ b. $q(x) = 2 \sin x \cos x$.
 
 \vspace{1.2in}
 
-c. $r(x) = \sin 2x$
+c. $r(x) = \sin 2x + \sin^2 x + \sin x^2$
 
 \vspace{1.2in}
 
