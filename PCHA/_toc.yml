@@ -67,4 +67,5 @@ parts:
         sections:
         - file: unit9/9.1_chain_rule/index
         - file: unit9/9.2_implicit_diff/index
+        - file: unit9/9.3_exp_log/index
       - file: about
