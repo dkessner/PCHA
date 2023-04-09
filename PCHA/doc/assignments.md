@@ -46,3 +46,5 @@
 | 9.1 Chain Rule | [OSC1 3.6](https://openstax.org/books/calculus-volume-1/pages/3-6-the-chain-rule) # 221-237 odd |
 | 9.2 Implicit differentiation | [OSC1 3.8](https://openstax.org/books/calculus-volume-1/pages/3-8-implicit-differentiation) # 301-309 odd |
 | 9.3 Exp/log | [OSC1 3.9](https://openstax.org/books/calculus-volume-1/pages/3-9-derivatives-of-exponential-and-logarithmic-functions) # 331-345 odd |
+| 9.4 Inverse trig functions | [OSC1 3.7](https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions) first derive the formulas for $\sin^{-1}$ and $\tan^{-1}$, then # 279, 283, 285 |
+| Unit 9 Review exercises | [OSC1 Ch3 Review](https://openstax.org/books/calculus-volume-1/pages/3-review-exercises) # 367-391 odd |
