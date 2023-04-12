@@ -69,4 +69,5 @@ parts:
         - file: unit9/9.2_implicit_diff/index
         - file: unit9/9.3_exp_log/index
         - file: unit9/9.4_inverse_trig/index
+        - file: unit9/9.5_applications/index
       - file: about
