@@ -11,6 +11,7 @@
 - <a href="../notes/PCHA_9.4_InverseTrig_C.pdf">9.4 Inverse Trig (C period)</a>
 - <a href="../notes/PCHA_9.4_InverseTrig_F.pdf">9.4 Inverse Trig (F period)</a>
 - <a href="../notes/PCHA_9.5_Applications_C.pdf">9.5 Applications (C period)</a>
+- <a href="../notes/PCHA_9.5_Applications_F.pdf">9.5 Applications (F period)</a>
 
 ## Assessments
 
