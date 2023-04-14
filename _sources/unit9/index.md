@@ -18,4 +18,6 @@
 - <a href="../assessments/pcha_9.1_classwork.pdf">9.1 Classwork</a>
 - <a href="../assessments/pcha_unit9_group.pdf">Unit 9 Group Work</a>
 - <a href="../assessments/pcha_unit9_group_key.pdf">Unit 9 Group Work key</a>
+- <a href="../assessments/pcha_unit9_group_b.pdf">Unit 9 Group Work B</a>
+- <a href="../assessments/pcha_unit9_group_b_key.pdf">Unit 9 Group Work B key</a>
 
