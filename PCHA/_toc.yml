@@ -70,4 +70,7 @@ parts:
         - file: unit9/9.3_exp_log/index
         - file: unit9/9.4_inverse_trig/index
         - file: unit9/9.5_applications/index
+      - file: unit10/index
+        sections:
+        - file: unit10/10.1_extreme_values/index
       - file: about
