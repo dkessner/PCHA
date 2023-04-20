@@ -49,4 +49,4 @@
 | 9.4 Inverse trig functions | [OSC1 3.7](https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions) first derive the formulas for $\sin^{-1}$ and $\tan^{-1}$, then # 279, 283, 285 |
 | Unit 9 Review exercises | [OSC1 Ch3 Review](https://openstax.org/books/calculus-volume-1/pages/3-review-exercises) # 367-391 odd |
 | 10.1 Extreme values | [OSC1 4.3](https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima) # 101, 103, 111, 113, 119-129 odd |
-| 10.2 Mean value theorem |[OSC1 4.4](https://openstax.org/books/calculus-volume-1/pages/4-4-the-mean-value-theorem) # 153-159 odd, 167-183 odd, 193; Find all antiderivatives of: $1, x, x^2, cos x, sin x, e^x$ |
+| 10.2 Mean value theorem |[OSC1 4.4](https://openstax.org/books/calculus-volume-1/pages/4-4-the-mean-value-theorem) # 157, 159, 167-183 odd, 193; Find all antiderivatives of: $1, x, x^2, \cos x, \sin x, e^x$ |
