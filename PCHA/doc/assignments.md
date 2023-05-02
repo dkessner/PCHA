@@ -50,3 +50,7 @@
 | Unit 9 Review exercises | [OSC1 Ch3 Review](https://openstax.org/books/calculus-volume-1/pages/3-review-exercises) # 367-391 odd |
 | 10.1 Extreme values | [OSC1 4.3](https://openstax.org/books/calculus-volume-1/pages/4-3-maxima-and-minima) # 101, 103, 111, 113, 119-129 odd |
 | 10.2 Mean value theorem |[OSC1 4.4](https://openstax.org/books/calculus-volume-1/pages/4-4-the-mean-value-theorem) # 157, 159, 167-183 odd, 193; Find all antiderivatives of: $1, x, x^2, \cos x, \sin x, e^x$ |
+| 10.3 Extreme value tests | [OSC1 4.5](https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph) # 201, 203, 221, 225-231 odd, 235 |
+| 10.4 Optimization | [OSC1 4.7](https://openstax.org/books/calculus-volume-1/pages/4-7-applied-optimization-problems) # 317, 319, 321, 337, 341 |  
+| 10.5 Linearization | [OSC1 4.2](https://openstax.org/books/calculus-volume-1/pages/4-2-linear-approximations-and-differentials) # 51-67 odd |
+| Unit 10 Review exercises | [OSC1 Ch4 Review](https://openstax.org/books/calculus-volume-1/pages/4-review-exercises) #525-537 odd, 545 |
