@@ -74,4 +74,5 @@ parts:
         sections:
         - file: unit10/10.1_extreme_values/index
         - file: unit10/10.2_mean_value_theorem/index
+        - file: unit10/10.3_extreme_value_tests/index
       - file: about
