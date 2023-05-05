@@ -76,4 +76,5 @@ parts:
         - file: unit10/10.2_mean_value_theorem/index
         - file: unit10/10.3_extreme_value_tests/index
         - file: unit10/10.4_optimization/index
+        - file: unit10/10.5_linearization/index
       - file: about
