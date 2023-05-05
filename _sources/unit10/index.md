@@ -10,4 +10,5 @@
 - <a href="../notes/PCHA_10.3_ExtremeValueTests_F.pdf">10.3 Extreme Value Tests (F period)</a>
 - <a href="../notes/PCHA_10.4_Optimization_C.pdf">10.4 Optimization (C period)</a>
 - <a href="../notes/PCHA_10.4_Optimization_F.pdf">10.4 Optimization (F period)</a>
+- <a href="../notes/PCHA_10.5_Linearization_F.pdf">10.5 Linearization (F period)</a>
 
