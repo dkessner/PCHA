@@ -13,8 +13,13 @@
 - <a href="../notes/PCHA_10.5_Linearization_C.pdf">10.5 Linearization (C period)</a>
 - <a href="../notes/PCHA_10.5_Linearization_F.pdf">10.5 Linearization (F period)</a>
 
+- <a href="../notes/PCHA_Moser_Calculator_C.pdf">Ms. Moser's Calculator Lesson</a>
+
+
 ## Assessments
 
 - <a href="../assessments/pcha_unit10_group.pdf">Unit 10 Group Work</a>
 - <a href="../assessments/pcha_unit10_group_key.pdf">Unit 10 Group Work key</a>
+
+
 
